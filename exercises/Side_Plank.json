@@ -1,0 +1,23 @@
+{
+  "name": "Side Plank",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on your side with your legs stacked and prop your upper body up on your forearm, elbow directly under your shoulder.",
+    "Lift your hips off the floor so your body forms a straight line from head to feet, and hold the position, keeping your core braced.",
+    "Repeat on the other side."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Side_Plank",
+  "isTimeBased": true,
+  "isPerSide": true
+}

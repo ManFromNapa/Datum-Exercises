@@ -1,0 +1,26 @@
+{
+  "name": "Side Bridge",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on your side with your legs straight and stacked, and prop your upper body up on your forearm with your elbow directly under your shoulder. Rest your other hand on your hip. This will be your starting position.",
+    "Lift your hips off the floor until your body forms a straight line from your head to your feet.",
+    "Hold this position, breathing steadily and keeping your core braced and your hips from sagging.",
+    "Lower your hips to the floor, then repeat on the other side."
+  ],
+  "category": "strength",
+  "images": [
+    "Side_Bridge/0.jpg",
+    "Side_Bridge/1.jpg"
+  ],
+  "id": "Side_Bridge",
+  "isTimeBased": true
+}

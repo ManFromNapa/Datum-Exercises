@@ -1,0 +1,23 @@
+{
+  "name": "L-Sit",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit on the floor or a pair of parallettes/blocks with your legs extended in front of you.",
+    "Press down through your hands to lift your hips and legs off the ground, keeping your legs straight and together.",
+    "Hold the position with your body supported only by your hands."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "L-Sit",
+  "isTimeBased": true
+}

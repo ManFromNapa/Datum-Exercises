@@ -1,0 +1,24 @@
+{
+  "name": "Assisted Dips",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders"
+  ],
+  "instructions": [
+    "Set the assisted dip/pull-up machine's counterweight to the amount of assistance you need, then kneel or step onto the platform and grip the parallel handles.",
+    "Lower your body by bending your elbows until your upper arms are roughly parallel to the floor, keeping your torso upright and elbows close to your sides.",
+    "Press back up through your palms until your arms are fully extended, without locking out aggressively.",
+    "Repeat for the desired number of reps, lowering the assistance weight over time as you get stronger."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Assisted_Dips",
+  "image_prompt_scene": "kneeling on the assist platform of an assisted dip and pull-up machine, hands gripping the parallel handles, arms extended."
+}

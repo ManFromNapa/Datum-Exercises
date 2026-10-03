@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "content_version": 1,
+  "updated": "2026-10-03",
+  "exercises_file": "exercises.json",
+  "exercises_sha256": "667eb69a4fa02dcde76544ccb034a24692587ecd4f206c12a4da4872e57ea925",
+  "exercise_count": 879,
+  "images": {}
+}

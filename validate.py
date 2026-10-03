@@ -40,6 +40,10 @@ KNOWN_LEGACY_MECHANIC_NULLS = {
     "Single-Cone_Sprint_Drill",
 }
 
+# Legacy entries from the original seed that contain one blank instruction step. The data is not edited,
+# so these ids may keep it. This list is closed: never add to it. New exercises get no blank steps.
+KNOWN_LEGACY_BLANK_STEPS = {"Barbell_Squat_To_A_Bench", "Clean"}
+
 MAX_IMAGE_BYTES = 150 * 1024
 IMAGE_SIZE = (850, 567)
 
@@ -83,6 +87,8 @@ def check_exercises(sources):
             err(f"{label}: mechanic is required for category {e.get('category')!r}")
         if not e.get("retired", False) and not any(s.strip() for s in e.get("instructions", [])):
             err(f"{label}: instructions are empty")
+        if any(not s.strip() for s in e.get("instructions", [])) and ex_id not in KNOWN_LEGACY_BLANK_STEPS:
+            err(f"{label}: instructions contain a blank step")
     # Aliases: unique across all names and all other aliases, same normalization as the app.
     alias_owner = {}
     for ex_id, e in sources.items():
@@ -173,6 +179,7 @@ def main():
     n_alias = sum(len(e.get("aliases", [])) for e in sources.values())
     n_with = sum(1 for e in sources.values() if e.get("aliases"))
     print(f"KNOWN_LEGACY_MECHANIC_NULLS allowlist: {len(legacy_present)} ids")
+    print(f"KNOWN_LEGACY_BLANK_STEPS allowlist: {len(KNOWN_LEGACY_BLANK_STEPS)} ids")
     print(f"OK: {len(sources)} exercises, {n_alias} aliases on {n_with} exercises, "
           f"{len(list(IMAGES_DIR.glob('*.jpg')))} remote images")
 

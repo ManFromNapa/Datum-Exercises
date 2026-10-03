@@ -1,0 +1,24 @@
+{
+  "name": "Side Jackknife",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your side with your legs straight and stacked. Place the hand of your top arm behind your head and rest your bottom arm along the floor. This will be your starting position.",
+    "Lift your top leg and your upper body off the floor at the same time, bringing your elbow and your knee toward each other.",
+    "Hold for a second at the top, squeezing the side of your abs.",
+    "Lower back to the starting position slowly.",
+    "Repeat for the recommended amount of repetitions, then switch sides."
+  ],
+  "category": "strength",
+  "images": [
+    "Side_Jackknife/0.jpg",
+    "Side_Jackknife/1.jpg"
+  ],
+  "id": "Side_Jackknife"
+}

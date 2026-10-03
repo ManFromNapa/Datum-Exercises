@@ -1,0 +1,23 @@
+{
+  "name": "Wall Sit",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Stand with your back against a wall and slide down until your knees are bent at roughly 90 degrees, as if sitting in an invisible chair.",
+    "Keep your back flat against the wall and your feet shoulder-width apart, and hold the position."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Wall_Sit",
+  "isTimeBased": true
+}

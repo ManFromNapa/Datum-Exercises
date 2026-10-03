@@ -16,7 +16,7 @@
     },
     "primaryMuscles": { "type": "array", "items": { "$ref": "#/$defs/muscle" }, "uniqueItems": true },
     "secondaryMuscles": { "type": "array", "items": { "$ref": "#/$defs/muscle" }, "uniqueItems": true },
-    "instructions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "instructions": { "type": "array", "items": { "type": "string" } },
     "category": {
       "enum": ["strength", "stretching", "cardio", "plyometrics", "powerlifting", "strongman", "olympic weightlifting"]
     },

@@ -1,0 +1,22 @@
+{
+  "name": "Hollow Hold",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie on your back and press your lower back into the floor while lifting your shoulders and legs slightly off the ground, arms extended overhead.",
+    "Keep your lower back pressed down throughout, and hold the position."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Hollow_Hold",
+  "isTimeBased": true,
+  "aliases": [
+    "Hollow Body Hold"
+  ]
+}

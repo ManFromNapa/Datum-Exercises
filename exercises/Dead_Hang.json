@@ -1,0 +1,25 @@
+{
+  "name": "Dead Hang",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip a pull-up bar with hands slightly wider than shoulder-width and hang with arms fully extended, feet off the floor.",
+    "Keep your shoulders slightly engaged rather than fully collapsed, and hold the position."
+  ],
+  "category": "strength",
+  "images": [],
+  "id": "Dead_Hang",
+  "isTimeBased": true,
+  "aliases": [
+    "Bar Hang"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "One-Arm Kettlebell Swings",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Place a kettlebell on the floor in front of you and stand with your feet slightly wider than shoulder width apart. Bend your knees and push your butt back to grip the handle with one hand. Place your free hand out to the side for balance.",
+    "Hike the kettlebell back between your legs, keeping your back flat and your head up.",
+    "Drive your hips forward and stand up powerfully, swinging the kettlebell to about chest height with your arm straight. Let the hips do the work, not the arm.",
+    "Let the kettlebell fall back down and hinge at the hips to guide it between your legs for the next repetition.",
+    "Repeat for the recommended amount of repetitions, then switch hands."
+  ],
+  "category": "strength",
+  "images": [
+    "One-Arm_Kettlebell_Swings/0.jpg",
+    "One-Arm_Kettlebell_Swings/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Swings"
+}
