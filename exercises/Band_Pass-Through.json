@@ -1,0 +1,28 @@
+{
+  "id": "Band_Pass-Through",
+  "name": "Band Pass-Through",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "middle back"
+  ],
+  "instructions": [
+    "Stand holding a resistance band wide in front of your thighs with your arms straight.",
+    "Keeping your arms straight, lift the band overhead and behind your head as far as comfortable.",
+    "Reverse the motion back to your thighs.",
+    "Use a wider grip if it feels tight, and keep your ribs down."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing holding a band wide in front of the thighs."
+}

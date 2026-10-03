@@ -1,0 +1,29 @@
+{
+  "id": "Pike_Push-Up",
+  "name": "Pike Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "chest",
+    "traps"
+  ],
+  "instructions": [
+    "Start with your hands and feet on the floor and your hips high, so your body forms an inverted V.",
+    "Bend your elbows and lower the top of your head toward the floor between your hands.",
+    "Press back up until your arms are straight.",
+    "Keep your hips high throughout to keep the load on your shoulders."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Hips high in an inverted V with the hands and feet on the floor."
+}

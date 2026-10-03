@@ -1,0 +1,30 @@
+{
+  "id": "Pendlay_Row",
+  "name": "Pendlay Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Stand with your feet hip-width apart, hinge forward until your torso is parallel to the floor, and grip the barbell on the floor with a flat back.",
+    "Explosively row the bar up to your lower chest while keeping your torso still.",
+    "Lower the bar back to the floor and let it come to a full stop each rep.",
+    "Reset your back position before each rep and keep your spine neutral."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Bent over with the torso parallel to the floor, the barbell on the floor and the arms extended."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Seal_Row",
+  "name": "Seal Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "traps"
+  ],
+  "instructions": [
+    "Lie face down on a high bench so the barbell hangs below you with your arms fully extended, and grip the bar slightly wider than your shoulders.",
+    "Row the bar up to the underside of the bench by pulling your elbows back.",
+    "Squeeze your shoulder blades together at the top.",
+    "Lower the bar under control to full arm extension. The bench removes lower back involvement."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying face down on a high bench with the barbell hanging below and the arms extended."
+}

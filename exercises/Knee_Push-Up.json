@@ -1,0 +1,29 @@
+{
+  "id": "Knee_Push-Up",
+  "name": "Knee Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Start on your hands and knees, then walk your hands forward so your body forms a straight line from your head to your knees.",
+    "Place your hands slightly wider than your shoulders and keep your core braced.",
+    "Lower your chest toward the floor by bending your elbows.",
+    "Press back up until your arms are straight."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a push-up position on the knees with the arms extended."
+}

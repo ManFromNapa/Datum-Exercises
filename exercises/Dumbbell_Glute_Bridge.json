@@ -1,0 +1,28 @@
+{
+  "id": "Dumbbell_Glute_Bridge",
+  "name": "Dumbbell Glute Bridge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Lie on the floor with your knees bent and a dumbbell resting on your hips.",
+    "Drive through your heels and lift your hips until your body forms a straight line from your shoulders to your knees.",
+    "Squeeze your glutes at the top.",
+    "Lower slowly."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on the floor with the knees bent and a dumbbell on the hips."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Band_Row",
+  "name": "Band Row",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "traps"
+  ],
+  "instructions": [
+    "Sit on the floor with your legs extended and loop a resistance band around your feet, holding the ends with your arms extended.",
+    "Sit tall and pull the band toward your lower ribs, squeezing your shoulder blades together.",
+    "Return slowly to the start with your arms straight.",
+    "Do not lean back to finish the rep."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated on the floor with the legs extended, a band around the feet and the arms extended."
+}

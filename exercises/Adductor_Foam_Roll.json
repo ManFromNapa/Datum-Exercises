@@ -1,0 +1,25 @@
+{
+  "id": "Adductor_Foam_Roll",
+  "name": "Adductor Foam Roll",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lie face down with one leg extended out to the side, resting your inner thigh on a foam roller.",
+    "Roll slowly between your knee and your groin, shifting as much weight as is tolerable.",
+    "Hold on tender spots and breathe steadily.",
+    "Switch legs."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying face down with the inner thigh on a foam roller."
+}

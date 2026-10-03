@@ -1,0 +1,29 @@
+{
+  "id": "Lateral_Lunge",
+  "name": "Lateral Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand tall with your feet together and your hands clasped at your chest.",
+    "Step out to one side and sit your hips back, bending that knee while the other leg stays straight.",
+    "Keep your chest up and your foot flat, then push back to the start.",
+    "Alternate sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing tall with the feet together and the hands clasped at the chest."
+}

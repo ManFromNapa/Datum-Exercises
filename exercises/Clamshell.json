@@ -1,0 +1,27 @@
+{
+  "id": "Clamshell",
+  "name": "Clamshell",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Lie on your side with your knees bent and stacked and your feet together.",
+    "Keeping your feet touching, raise your top knee as high as you can without rolling your hips back.",
+    "Pause, then lower slowly.",
+    "Complete all reps, then switch sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on one side with the knees bent and stacked and the feet together."
+}

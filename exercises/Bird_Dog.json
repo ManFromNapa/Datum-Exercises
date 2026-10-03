@@ -1,0 +1,29 @@
+{
+  "id": "Bird_Dog",
+  "name": "Bird Dog",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Start on your hands and knees with your hands under your shoulders and your knees under your hips, back flat.",
+    "Extend your right arm forward and your left leg back at the same time until both are in line with your torso.",
+    "Pause briefly without letting your hips rotate or your lower back sag, then return to the start.",
+    "Repeat with the opposite arm and leg, alternating sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "On hands and knees with the spine neutral and the back flat."
+}

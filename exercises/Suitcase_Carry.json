@@ -1,0 +1,30 @@
+{
+  "id": "Suitcase_Carry",
+  "name": "Suitcase Carry",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "glutes",
+    "traps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Stand tall with a heavy dumbbell in one hand at your side, as if carrying a suitcase.",
+    "Brace your core and resist leaning toward the weight, keeping your shoulders level and your ribs down.",
+    "Walk with short, steady steps for the set distance or time.",
+    "Switch hands and repeat on the other side."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing tall holding one heavy dumbbell at the side."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Dumbbell_Push_Press",
+  "name": "Dumbbell Push Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Stand with a dumbbell in each hand at your shoulders, feet shoulder-width apart.",
+    "Dip by bending your knees slightly, then drive up through your legs and press the dumbbells overhead.",
+    "Lock out your arms above your head, then lower the dumbbells back to your shoulders.",
+    "Brace your core and keep your ribs down."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with the dumbbells at the shoulders and the knees slightly bent."
+}

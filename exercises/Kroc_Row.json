@@ -1,0 +1,30 @@
+{
+  "id": "Kroc_Row",
+  "name": "Kroc Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "biceps",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "Place one hand and the same-side knee on a bench with a flat back, and hold a heavy dumbbell in your other hand.",
+    "Row the dumbbell up toward your hip for high reps, allowing a small amount of body English.",
+    "Lower the weight to a full stretch and repeat.",
+    "Use straps if your grip fails first, and keep your spine neutral."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With one hand and one knee on a bench and a heavy dumbbell hanging in the other hand."
+}

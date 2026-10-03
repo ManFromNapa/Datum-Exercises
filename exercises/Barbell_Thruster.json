@@ -1,0 +1,30 @@
+{
+  "id": "Barbell_Thruster",
+  "name": "Barbell Thruster",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders",
+    "triceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Hold a barbell in the front rack position across your shoulders, elbows high, with your feet shoulder-width apart.",
+    "Squat down until your thighs are at least parallel to the floor.",
+    "Drive up out of the squat and use that momentum to press the bar overhead.",
+    "Lower the bar back to your shoulders and go straight into the next squat."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with the barbell in the front rack position."
+}

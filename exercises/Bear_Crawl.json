@@ -1,0 +1,30 @@
+{
+  "id": "Bear_Crawl",
+  "name": "Bear Crawl",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "quadriceps",
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Start on your hands and toes with your knees bent and hovering just off the floor, back flat.",
+    "Move your opposite hand and foot forward together.",
+    "Keep your hips low and level and your knees close to the floor.",
+    "Crawl for the set time or distance."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "On hands and toes with the knees hovering just off the floor."
+}

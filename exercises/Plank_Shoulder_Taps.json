@@ -1,0 +1,28 @@
+{
+  "id": "Plank_Shoulder_Taps",
+  "name": "Plank Shoulder Taps",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "chest"
+  ],
+  "instructions": [
+    "Start in a high plank with your hands under your shoulders and your feet wider than hip-width.",
+    "Brace your core, then lift one hand and tap the opposite shoulder.",
+    "Return the hand to the floor and tap with the other hand, keeping your hips from rocking side to side.",
+    "Squeeze your glutes and move slowly to stay stable."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a high plank with the feet wide and the hands under the shoulders."
+}

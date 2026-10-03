@@ -1,0 +1,29 @@
+{
+  "id": "Prone_Y-T-W_Raise",
+  "name": "Prone Y-T-W Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "shoulders",
+    "traps"
+  ],
+  "instructions": [
+    "Lie face down with your forehead off the floor and your arms extended overhead in a Y shape, thumbs up.",
+    "Lift your arms off the floor and hold briefly, then lower. Next, do the same with your arms out to the sides in a T, then with elbows bent and pulled in to the sides in a W.",
+    "Move through the Y, T and W as one rep.",
+    "Use light effort and squeeze your shoulder blades without lifting your chest too high."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying face down with the arms extended overhead in a Y."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Landmine_Press",
+  "name": "Landmine Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Anchor one end of a barbell and stand facing it in a split or shoulder-width stance, holding the free end at your shoulder in one hand.",
+    "Press the bar up and forward until your arm is extended.",
+    "Lower it under control to your shoulder.",
+    "Keep your core braced and avoid leaning back. Complete all reps, then switch sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with the end of a landmine bar held at the shoulder in one hand."
+}

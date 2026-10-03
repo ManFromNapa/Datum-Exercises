@@ -1,0 +1,27 @@
+{
+  "id": "Fire_Hydrant",
+  "name": "Fire Hydrant",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abductors"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Start on your hands and knees with your back flat.",
+    "Keeping your knee bent, lift one leg out to the side as high as you can without rotating your torso.",
+    "Lower slowly.",
+    "Complete all reps, then switch legs."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "On hands and knees with the back flat."
+}

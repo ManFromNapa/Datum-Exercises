@@ -1,0 +1,28 @@
+{
+  "id": "Band_Face_Pull",
+  "name": "Band Face Pull",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "traps"
+  ],
+  "instructions": [
+    "Anchor a resistance band at face height, stand facing it, and hold the ends with your arms extended.",
+    "Pull the band toward your face, splitting your hands apart and driving your elbows back and out.",
+    "Pause with your shoulder blades squeezed, then return slowly.",
+    "Keep your ribs down and avoid arching your back."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with a band anchored at face height and the arms extended."
+}

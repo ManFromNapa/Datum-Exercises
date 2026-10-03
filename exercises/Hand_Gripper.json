@@ -1,0 +1,25 @@
+{
+  "id": "Hand_Gripper",
+  "name": "Hand Gripper",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "forearms"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Hold a hand gripper in one hand with the handles apart.",
+    "Squeeze the handles together as hard as you can until they touch.",
+    "Hold briefly, then release slowly.",
+    "Complete all reps, then switch hands."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing holding a hand gripper open in one hand."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Dumbbell_Single-Leg_Romanian_Deadlift",
+  "name": "Dumbbell Single-Leg Romanian Deadlift",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "forearms"
+  ],
+  "instructions": [
+    "Stand on one leg with a slight bend in the knee, holding a dumbbell in each hand in front of your thighs.",
+    "Hinge at the hips and reach the dumbbells toward the floor while your free leg extends behind you.",
+    "Stop when you feel a stretch in your hamstring, with a flat back.",
+    "Drive your hips forward to stand back up, then repeat before switching legs."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing on one leg holding dumbbells in front of the thighs."
+}

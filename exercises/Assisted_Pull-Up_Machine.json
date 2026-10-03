@@ -1,0 +1,29 @@
+{
+  "id": "Assisted_Pull-Up_Machine",
+  "name": "Assisted Pull-Up Machine",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "forearms"
+  ],
+  "instructions": [
+    "Select the assistance weight, step onto the platform and kneel or stand on it, then grip the bar overhead.",
+    "Pull your chest toward the bar by driving your elbows down until your chin is above the bar.",
+    "Lower yourself slowly until your arms are fully extended.",
+    "Reduce the assistance as you get stronger."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Kneeling on the assist platform with the hands gripping the bar overhead."
+}

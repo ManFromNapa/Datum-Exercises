@@ -1,0 +1,30 @@
+{
+  "id": "Sandbag_Carry",
+  "name": "Sandbag Carry",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "forearms",
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Lift the sandbag and hug it tightly against your chest.",
+    "Stand tall and brace your core.",
+    "Walk with short, steady steps for the set distance or time.",
+    "Keep your torso upright and breathe steadily."
+  ],
+  "category": "strongman",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing and hugging a sandbag against the chest."
+}

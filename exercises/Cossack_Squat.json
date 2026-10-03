@@ -1,0 +1,29 @@
+{
+  "id": "Cossack_Squat",
+  "name": "Cossack Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your feet much wider than your shoulders and your toes turned slightly out, hands clasped at your chest.",
+    "Shift your weight to one side and squat down on that leg, keeping the other leg straight with the toes up.",
+    "Go as deep as you can with your heel on the floor.",
+    "Push back up and shift to the other side."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a wide stance with the toes slightly out and the hands clasped at the chest."
+}

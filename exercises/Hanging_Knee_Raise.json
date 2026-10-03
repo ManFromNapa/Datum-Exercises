@@ -1,0 +1,28 @@
+{
+  "id": "Hanging_Knee_Raise",
+  "name": "Hanging Knee Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Grip a pull-up bar and hang with your arms extended and your legs straight down.",
+    "Brace your core and raise your knees toward your chest, curling your pelvis up at the top.",
+    "Lower your legs back down slowly without swinging.",
+    "Keep the movement controlled and avoid using momentum."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Hanging from a pull-up bar with the arms straight and the legs straight down."
+}

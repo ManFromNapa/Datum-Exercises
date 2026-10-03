@@ -1,0 +1,31 @@
+{
+  "id": "Dumbbell_Man_Maker",
+  "name": "Dumbbell Man Maker",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "lats",
+    "quadriceps",
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Start in a high plank with your hands on two dumbbells and your feet wide.",
+    "Do a push-up, then row one dumbbell up to your ribs, and row the other.",
+    "Jump or step your feet to your hands, then clean the dumbbells to your shoulders and stand.",
+    "Press them overhead, lower them, return to the plank, and repeat. Use light weights to start."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a high plank with the hands on two dumbbells."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Sissy_Squat",
+  "name": "Sissy Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand with one hand on a support and rise onto the balls of your feet.",
+    "Lean back, bend your knees forward and lower your hips toward your heels while your torso stays in a straight line from knees to head.",
+    "Go as deep as you comfortably can.",
+    "Push through the toes to rise back up. This is hard on the knees, so go gradually."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with one hand holding a support and the heels raised."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Downward_Dog",
+  "name": "Downward Dog",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "shoulders",
+    "lats"
+  ],
+  "instructions": [
+    "Start on your hands and knees, then tuck your toes and lift your hips up and back so your body forms an inverted V.",
+    "Press your hands into the floor and push your chest toward your thighs.",
+    "Press your heels toward the floor, keeping your back flat.",
+    "Hold the position and breathe steadily."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With the hands and feet on the floor and the hips high in an inverted V."
+}

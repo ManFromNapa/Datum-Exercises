@@ -1,0 +1,29 @@
+{
+  "id": "Landmine_Row",
+  "name": "Landmine Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "biceps",
+    "lower back"
+  ],
+  "instructions": [
+    "Anchor one end of a barbell and stand over the bar, straddling it with a V-handle or both hands gripping the bar end.",
+    "Hinge forward with a flat back and your knees slightly bent.",
+    "Row the handle toward your chest, driving your elbows back.",
+    "Lower under control until your arms are straight."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Straddling a landmine bar, hinged forward with the hands on the handle and the arms extended."
+}

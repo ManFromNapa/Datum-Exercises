@@ -1,0 +1,29 @@
+{
+  "id": "Hanging_Windshield_Wiper",
+  "name": "Hanging Windshield Wiper",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip a pull-up bar and hang, then raise your straight legs up until your feet are near the bar.",
+    "Keeping your legs together and your shoulders still, rotate your hips and lower your legs toward one side in a wide arc.",
+    "Bring your legs back up through the middle and lower them to the other side.",
+    "Keep the movement slow and controlled. Do not swing, and build up with easier hanging core work first."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Hanging from a bar with the legs raised straight up to the bar."
+}

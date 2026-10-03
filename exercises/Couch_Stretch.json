@@ -1,0 +1,27 @@
+{
+  "id": "Couch_Stretch",
+  "name": "Couch Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes"
+  ],
+  "instructions": [
+    "Kneel with one knee on the floor near a wall and place the shin of that leg up the wall.",
+    "Step your other foot forward into a lunge position.",
+    "Raise your torso upright and squeeze your glute until you feel a stretch in the front of your thigh and hip.",
+    "Hold, then switch sides."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With one knee on the floor and the shin up a wall and the other foot forward."
+}

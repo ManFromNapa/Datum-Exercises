@@ -1,0 +1,31 @@
+{
+  "id": "Dumbbell_Clean_and_Press",
+  "name": "Dumbbell Clean and Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "traps",
+    "triceps"
+  ],
+  "instructions": [
+    "Stand with a dumbbell in each hand at your sides, then hinge at the hips and lower them to just below your knees.",
+    "Drive your hips forward and shrug, pulling the dumbbells up to your shoulders.",
+    "Press them overhead until your arms are locked out.",
+    "Lower the dumbbells back to your shoulders and then to your sides, and repeat."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with the dumbbells at the sides, about to hinge at the hips."
+}

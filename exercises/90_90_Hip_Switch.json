@@ -1,0 +1,28 @@
+{
+  "id": "90_90_Hip_Switch",
+  "name": "90/90 Hip Switch",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "adductors",
+    "lower back"
+  ],
+  "instructions": [
+    "Sit on the floor with both knees bent at 90 degrees and your legs dropped to one side.",
+    "Lift your knees and rotate to switch your legs to the other side.",
+    "Keep your torso tall and use your hands for support if needed.",
+    "Move slowly and alternate sides."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated with both knees bent at 90 degrees and the legs dropped to one side."
+}

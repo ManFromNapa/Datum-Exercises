@@ -1,0 +1,30 @@
+{
+  "id": "Dumbbell_Deadlift",
+  "name": "Dumbbell Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "forearms",
+    "traps"
+  ],
+  "instructions": [
+    "Stand with your feet hip-width apart and a dumbbell on the floor beside each foot, then hinge at the hips and grip them.",
+    "Brace your core and drive through your feet to stand tall, keeping your back flat.",
+    "Squeeze your glutes at the top.",
+    "Hinge back and lower the dumbbells to the floor under control."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing over two dumbbells on the floor, hinged, gripping them."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Kettlebell_Deadlift",
+  "name": "Kettlebell Deadlift",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "hamstrings"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back",
+    "forearms"
+  ],
+  "instructions": [
+    "Stand with your feet hip-width apart and the kettlebell between them, then hinge at the hips and grip the handle with both hands.",
+    "Brace your core and drive through your feet to stand tall, keeping your back flat.",
+    "Squeeze your glutes at the top.",
+    "Hinge back to lower the kettlebell to the floor under control."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing over a kettlebell on the floor, hinged, with both hands on the handle."
+}

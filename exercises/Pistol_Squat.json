@@ -1,0 +1,29 @@
+{
+  "id": "Pistol_Squat",
+  "name": "Pistol Squat",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand on one leg with the other leg extended in front of you and your arms forward for balance.",
+    "Sit your hips back and squat down as deep as you can on the standing leg, keeping the other leg off the floor.",
+    "Drive through your whole foot to stand back up.",
+    "Hold a support or squat to a box if needed, and complete reps before switching legs."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing on one leg with the other leg extended forward and the arms forward."
+}

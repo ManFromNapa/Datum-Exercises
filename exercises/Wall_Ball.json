@@ -1,0 +1,30 @@
+{
+  "id": "Wall_Ball",
+  "name": "Wall Ball",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "medicine ball",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders",
+    "triceps",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand facing a wall about an arm's length away, holding a medicine ball at your chest.",
+    "Squat down until your thighs are at least parallel to the floor.",
+    "Drive up and throw the ball at a target on the wall above head height.",
+    "Catch the ball and go into the next squat."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Facing a wall in a squat holding a medicine ball at the chest."
+}

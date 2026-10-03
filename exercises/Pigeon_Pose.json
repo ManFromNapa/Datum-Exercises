@@ -1,0 +1,28 @@
+{
+  "id": "Pigeon_Pose",
+  "name": "Pigeon Pose",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "hamstrings"
+  ],
+  "instructions": [
+    "From hands and knees, bring one knee forward and place your shin across your body, then extend the other leg straight back.",
+    "Sit your hips toward the floor and keep your torso upright.",
+    "Hold the stretch, then fold forward over your front leg for a deeper stretch if comfortable.",
+    "Repeat on the other side. Place a pillow under the hip if it does not reach the floor."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In pigeon pose with the front shin angled, the back leg extended and the torso upright."
+}

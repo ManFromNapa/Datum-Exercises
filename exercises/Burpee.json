@@ -1,0 +1,31 @@
+{
+  "id": "Burpee",
+  "name": "Burpee",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "triceps",
+    "abdominals",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand with your feet shoulder-width apart.",
+    "Squat down, place your hands on the floor and kick your feet back into a plank.",
+    "Lower your chest to the floor, push back up, then jump your feet toward your hands.",
+    "Jump up explosively with your arms overhead and repeat."
+  ],
+  "category": "plyometrics",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing tall with the feet shoulder-width apart."
+}

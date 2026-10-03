@@ -1,0 +1,27 @@
+{
+  "id": "Bayesian_Cable_Curl",
+  "name": "Bayesian Cable Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand facing away from a low cable pulley, holding the handle in one hand with your arm extended behind your body.",
+    "Keep your upper arm behind your torso and curl the handle up toward your shoulder.",
+    "Squeeze your biceps at the top, then lower with control to a full stretch.",
+    "Avoid swinging your body. Complete all reps, then switch arms."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing facing away from a low cable with one arm extended behind the body."
+}

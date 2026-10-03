@@ -1,0 +1,28 @@
+{
+  "id": "Wall_Slide",
+  "name": "Wall Slide",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "middle back"
+  ],
+  "instructions": [
+    "Stand with your back, head and forearms against a wall, with your elbows bent at 90 degrees at shoulder height.",
+    "Slide your arms up the wall until they are overhead, keeping your forearms and wrists in contact.",
+    "Slide them back down to the start.",
+    "Keep your lower back from arching away from the wall."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With the back and forearms against a wall and the elbows at 90 degrees."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Smith_Machine_Hip_Thrust",
+  "name": "Smith Machine Hip Thrust",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit with your upper back against a bench and a padded Smith bar across your hips.",
+    "Unrack the bar and drive through your heels to lift your hips until your torso is parallel.",
+    "Squeeze your glutes at the top.",
+    "Lower slowly and re-rack the bar when done."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With the upper back on a bench and the Smith bar across the hips."
+}

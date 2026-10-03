@@ -1,0 +1,29 @@
+{
+  "id": "Safety_Bar_Squat",
+  "name": "Safety Bar Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Set the safety squat bar on your shoulders, grip the handles and step back from the rack.",
+    "Squat down until your thighs are at least parallel to the floor, keeping your torso upright.",
+    "Drive through your feet to stand.",
+    "Re-rack the bar carefully."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with a safety squat bar on the shoulders and the handles gripped."
+}

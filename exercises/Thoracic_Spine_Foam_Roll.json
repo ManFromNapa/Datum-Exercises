@@ -1,0 +1,28 @@
+{
+  "id": "Thoracic_Spine_Foam_Roll",
+  "name": "Thoracic Spine Foam Roll",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "lats"
+  ],
+  "instructions": [
+    "Lie on your back with a foam roller under your upper back and your hands behind your head.",
+    "Lift your hips slightly and roll slowly between your mid and upper back.",
+    "Pause on stiff spots and extend your upper back over the roller.",
+    "Do not roll onto your lower back or neck."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on the back with a foam roller under the upper back and the hands behind the head."
+}

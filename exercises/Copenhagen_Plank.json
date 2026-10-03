@@ -1,0 +1,28 @@
+{
+  "id": "Copenhagen_Plank",
+  "name": "Copenhagen Plank",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on your side with your forearm under your shoulder and place the inside of your top leg or ankle on a bench, with your bottom leg hanging underneath.",
+    "Lift your hips so your body forms a straight line, supported by the top leg on the bench. The top leg's adductors do most of the work.",
+    "Hold the position, keeping your hips level and your core braced.",
+    "Lower and switch sides. Shorten the lever by putting your knee on the bench to make it easier."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a side plank on one forearm with the top leg resting on a bench."
+}

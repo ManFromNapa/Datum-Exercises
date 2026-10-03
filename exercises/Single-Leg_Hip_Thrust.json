@@ -1,0 +1,28 @@
+{
+  "id": "Single-Leg_Hip_Thrust",
+  "name": "Single-Leg Hip Thrust",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit with your upper back against a bench, one foot flat on the floor and the other leg extended.",
+    "Drive through the planted heel and lift your hips until your torso is parallel to the floor.",
+    "Squeeze your glute at the top.",
+    "Lower under control and complete all reps before switching legs."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With the upper back on a bench, one foot on the floor and the other leg extended."
+}

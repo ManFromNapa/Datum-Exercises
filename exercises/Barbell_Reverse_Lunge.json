@@ -1,0 +1,29 @@
+{
+  "id": "Barbell_Reverse_Lunge",
+  "name": "Barbell Reverse Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Stand with a barbell across your upper back and your feet hip-width apart.",
+    "Step one foot back and lower until your front thigh is about parallel to the floor.",
+    "Push through your front foot to return to standing.",
+    "Alternate legs, keeping your torso upright."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with a barbell across the upper back."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Stir_the_Pot",
+  "name": "Stir the Pot",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "exercise ball",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Get into a forearm plank with your forearms on a stability ball and your feet hip-width apart.",
+    "Brace your core and move the ball in a small circle with your forearms, as if stirring a pot.",
+    "Do several circles in one direction, then reverse direction.",
+    "Keep your hips level and your body in a straight line. Make the circles smaller if you lose control."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a forearm plank with the forearms resting on a stability ball."
+}

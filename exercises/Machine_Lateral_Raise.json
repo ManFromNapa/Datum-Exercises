@@ -1,0 +1,27 @@
+{
+  "id": "Machine_Lateral_Raise",
+  "name": "Machine Lateral Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps"
+  ],
+  "instructions": [
+    "Adjust the seat so your shoulders line up with the machine's pivot, and place your arms against the pads.",
+    "Raise your arms out to the sides until they are about shoulder height.",
+    "Lower slowly under control.",
+    "Keep your back against the seat and avoid shrugging."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated with the arms against the pads at the sides."
+}

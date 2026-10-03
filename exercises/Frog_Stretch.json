@@ -1,0 +1,28 @@
+{
+  "id": "Frog_Stretch",
+  "name": "Frog Stretch",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "lower back"
+  ],
+  "instructions": [
+    "Start on your hands and knees, then slide your knees out wide and keep your inner feet on the floor with your ankles in line with your knees.",
+    "Sink your hips back toward your heels.",
+    "Hold the position, keeping your back flat.",
+    "Come out of it slowly and stop if you feel pinching in the groin or knees."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "On hands and knees with the knees wide and the inner feet on the floor."
+}

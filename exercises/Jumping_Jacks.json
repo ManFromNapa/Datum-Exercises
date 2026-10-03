@@ -1,0 +1,29 @@
+{
+  "id": "Jumping_Jacks",
+  "name": "Jumping Jacks",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "shoulders",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand with your feet together and your arms at your sides.",
+    "Jump your feet out wide while raising your arms overhead.",
+    "Jump back to the start.",
+    "Keep a steady rhythm and land softly."
+  ],
+  "category": "cardio",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with the feet together and the arms at the sides."
+}

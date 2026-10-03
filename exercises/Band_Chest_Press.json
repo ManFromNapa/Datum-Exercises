@@ -1,0 +1,28 @@
+{
+  "id": "Band_Chest_Press",
+  "name": "Band Chest Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Wrap a resistance band around your upper back and hold the ends in your hands at chest level, one foot slightly forward for balance.",
+    "Press your hands forward until your arms are straight.",
+    "Return slowly to the start, keeping tension on the band.",
+    "Keep your core braced and avoid leaning."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with a resistance band around the back and the hands at the chest."
+}

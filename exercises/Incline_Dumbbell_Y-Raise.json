@@ -1,0 +1,28 @@
+{
+  "id": "Incline_Dumbbell_Y-Raise",
+  "name": "Incline Dumbbell Y-Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "middle back"
+  ],
+  "instructions": [
+    "Set a bench to a low incline and lie chest down on it with a light dumbbell in each hand, arms hanging.",
+    "Raise your arms forward and up in a Y shape, thumbs pointing up.",
+    "Pause at the top, then lower slowly.",
+    "Use very light weights and keep your neck neutral."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Chest on an incline bench with the arms hanging holding light dumbbells."
+}

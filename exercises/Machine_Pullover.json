@@ -1,0 +1,28 @@
+{
+  "id": "Machine_Pullover",
+  "name": "Machine Pullover",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Adjust the seat so your shoulders line up with the machine's pivot, then sit back and place your arms on the pads overhead.",
+    "Pull the pads down and forward in an arc until your arms reach your torso, driving with your elbows.",
+    "Return slowly to the stretched position without letting the weight stack touch down.",
+    "Keep your back against the pad."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated in the pullover machine with the arms overhead on the pads."
+}

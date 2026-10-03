@@ -1,0 +1,29 @@
+{
+  "id": "High_Knees",
+  "name": "High Knees",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "calves",
+    "glutes",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand tall and run in place, driving each knee up to about hip height.",
+    "Pump your arms and stay on the balls of your feet.",
+    "Keep your torso upright and land softly.",
+    "Move quickly for the set time."
+  ],
+  "category": "cardio",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a running-in-place posture with one knee driven high."
+}

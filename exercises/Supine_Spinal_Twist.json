@@ -1,0 +1,29 @@
+{
+  "id": "Supine_Spinal_Twist",
+  "name": "Supine Spinal Twist",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "middle back",
+    "chest"
+  ],
+  "instructions": [
+    "Lie on your back with your arms out to the sides.",
+    "Bring one knee up and cross it over your body toward the floor.",
+    "Keep your shoulders on the floor and turn your head to the opposite side.",
+    "Hold the stretch, then switch sides."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on the back with one knee crossed over the body and the arms out."
+}

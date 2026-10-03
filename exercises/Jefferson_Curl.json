@@ -1,0 +1,28 @@
+{
+  "id": "Jefferson_Curl",
+  "name": "Jefferson Curl",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lower back"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "glutes"
+  ],
+  "instructions": [
+    "Stand on a bench or box holding a very light barbell at your thighs, with your legs straight.",
+    "Slowly tuck your chin and round your spine one segment at a time, lowering the bar toward your toes.",
+    "Reach your deepest comfortable range, then reverse the movement, stacking your spine back up one vertebra at a time.",
+    "Use a very light load and move slowly. This is for mobility and spinal control, not heavy lifting."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing tall on a bench holding a light barbell at the thighs."
+}

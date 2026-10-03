@@ -1,0 +1,30 @@
+{
+  "id": "Dumbbell_Snatch",
+  "name": "Dumbbell Snatch",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps",
+    "traps"
+  ],
+  "instructions": [
+    "Squat over a dumbbell on the floor between your feet and grip it with one hand, back flat.",
+    "Drive through your legs and hips, and pull the dumbbell close to your body, then punch it overhead.",
+    "Lock out the arm overhead, then lower the dumbbell back to the floor with control.",
+    "Keep your back flat. Complete all reps on one side, then switch."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Squatting over one dumbbell on the floor with one hand gripping it."
+}

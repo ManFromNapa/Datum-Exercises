@@ -1,0 +1,27 @@
+{
+  "id": "Butterfly_Stretch",
+  "name": "Butterfly Stretch",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "lower back"
+  ],
+  "instructions": [
+    "Sit tall with the soles of your feet together and your knees dropped out to the sides.",
+    "Hold your feet and let your knees relax toward the floor.",
+    "Lean forward from your hips with a flat back until you feel a stretch in your inner thighs.",
+    "Hold the position and breathe steadily."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated with the soles of the feet together and the knees dropped out."
+}

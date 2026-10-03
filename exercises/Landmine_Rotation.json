@@ -1,0 +1,28 @@
+{
+  "id": "Landmine_Rotation",
+  "name": "Landmine Rotation",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "lower back"
+  ],
+  "instructions": [
+    "Anchor one end of a barbell in a landmine holder, stand facing it, and hold the free end with both hands at chest height, arms extended.",
+    "Keeping your arms straight, rotate the bar in an arc to one side, pivoting your feet and turning your torso.",
+    "Rotate back through the center and over to the other side.",
+    "Brace your core and move from your trunk, not your arms. Use a light load."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with both hands holding the end of a landmine bar at chest height, arms extended."
+}

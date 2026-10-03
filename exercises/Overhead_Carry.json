@@ -1,0 +1,29 @@
+{
+  "id": "Overhead_Carry",
+  "name": "Overhead Carry",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps",
+    "traps"
+  ],
+  "instructions": [
+    "Press a dumbbell overhead with one arm and lock out your elbow.",
+    "Brace your core and keep your ribs down, your biceps near your ear.",
+    "Walk with short, steady steps for the set distance or time.",
+    "Switch arms and repeat."
+  ],
+  "category": "strongman",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": true,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with one dumbbell pressed overhead and the arm locked out."
+}

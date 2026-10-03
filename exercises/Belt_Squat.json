@@ -1,0 +1,29 @@
+{
+  "id": "Belt_Squat",
+  "name": "Belt Squat",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "adductors"
+  ],
+  "instructions": [
+    "Attach the belt to the weight and stand on the platforms with your feet shoulder-width apart.",
+    "Squat down until your thighs are at least parallel to the floor, keeping your torso upright.",
+    "Drive through your feet to stand.",
+    "The load hangs from your hips, so your spine is not loaded."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing on platforms with the weight belt hanging from the hips."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Archer_Push-Up",
+  "name": "Archer Push-Up",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Start in a push-up position with your hands much wider than your shoulders.",
+    "Bend one elbow and shift your body toward that hand, keeping the opposite arm straight.",
+    "Press back to the center, then lower to the other side.",
+    "Keep your body in a straight line. Practice standard push-ups first."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a wide-arm push-up position with the arms extended."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Deep_Squat_Hold",
+  "name": "Deep Squat Hold",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "adductors"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "calves",
+    "lower back"
+  ],
+  "instructions": [
+    "Squat down as low as you can with your feet slightly wider than your shoulders and your toes turned out.",
+    "Press your elbows against your knees and keep your chest tall.",
+    "Keep your heels flat on the floor.",
+    "Hold the position and breathe steadily."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a deep squat with the elbows pressing the knees out and the chest tall."
+}

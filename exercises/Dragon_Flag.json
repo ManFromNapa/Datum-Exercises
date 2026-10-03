@@ -1,0 +1,29 @@
+{
+  "id": "Dragon_Flag",
+  "name": "Dragon Flag",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "lower back",
+    "glutes",
+    "lats"
+  ],
+  "instructions": [
+    "Lie on a bench and grip the bench behind your head. Raise your legs and hips so your body is a straight line resting on your upper back and shoulders.",
+    "Keeping your body rigid from shoulders to toes, slowly lower your legs and torso toward the bench without bending at the hips.",
+    "Stop just above the bench and reverse the motion, lifting back up using your core.",
+    "This is an advanced move. Start with bent knees or only the lowering phase, and keep your neck relaxed."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on a bench gripping behind the head, with the body rigid and raised on the shoulders."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Band_Tricep_Pushdown",
+  "name": "Band Tricep Pushdown",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Anchor a resistance band overhead, hold the ends with your elbows bent and tucked at your sides.",
+    "Push your hands down until your arms are fully straight.",
+    "Pause, then let your hands rise slowly back to the start.",
+    "Keep your elbows pinned to your sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with a band anchored overhead and the elbows bent at the sides."
+}

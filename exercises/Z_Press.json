@@ -1,0 +1,30 @@
+{
+  "id": "Z_Press",
+  "name": "Z Press",
+  "force": "push",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "abdominals",
+    "lower back",
+    "traps"
+  ],
+  "instructions": [
+    "Sit on the floor with your legs straight out in front of you, and set a barbell at shoulder height on a rack or pick it up from there.",
+    "Hold the bar at your shoulders and brace your core.",
+    "Press the bar straight overhead until your arms lock out.",
+    "Lower it back to your shoulders. Stay tall and do not lean back."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated on the floor with the legs extended and the barbell at the shoulders."
+}

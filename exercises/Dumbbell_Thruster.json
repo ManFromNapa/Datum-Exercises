@@ -1,0 +1,30 @@
+{
+  "id": "Dumbbell_Thruster",
+  "name": "Dumbbell Thruster",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "shoulders",
+    "triceps",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand holding a dumbbell in each hand at your shoulders, feet shoulder-width apart.",
+    "Squat down until your thighs are at least parallel to the floor.",
+    "Drive up out of the squat and press the dumbbells overhead in one motion.",
+    "Lower the dumbbells back to your shoulders and go into the next squat."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing with the dumbbells at the shoulders."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Meadows_Row",
+  "name": "Meadows Row",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "middle back",
+    "biceps",
+    "forearms",
+    "lower back"
+  ],
+  "instructions": [
+    "Anchor one end of a barbell and stand perpendicular to it in a staggered stance, then hinge forward and grip the free end of the bar with one hand.",
+    "Row the bar up toward your hip by driving your elbow back and up.",
+    "Squeeze your lat at the top, then lower with control to a full stretch.",
+    "Keep a flat back and a stable torso. Complete all reps, then switch sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a staggered stance beside a landmine bar, hinged forward with one hand on the bar end."
+}

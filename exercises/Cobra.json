@@ -1,0 +1,29 @@
+{
+  "id": "Cobra",
+  "name": "Cobra",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "lower back"
+  ],
+  "instructions": [
+    "Lie face down with your hands under your shoulders and your legs extended.",
+    "Press into your hands and lift your chest off the floor, keeping your hips down.",
+    "Keep your shoulders relaxed away from your ears.",
+    "Hold the position and breathe steadily."
+  ],
+  "category": "stretching",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying face down with the hands under the shoulders and the chest lifted."
+}

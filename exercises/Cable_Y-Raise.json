@@ -1,0 +1,28 @@
+{
+  "id": "Cable_Y-Raise",
+  "name": "Cable Y-Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "traps",
+    "middle back"
+  ],
+  "instructions": [
+    "Stand facing a low cable pulley and hold the handles or one handle in each hand at your hips.",
+    "Raise your arms forward and up into a Y shape, thumbs pointing up, until they are above head height.",
+    "Pause briefly at the top, then lower under control.",
+    "Use a light weight and avoid arching your back."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing facing a low cable with the hands at the hips."
+}

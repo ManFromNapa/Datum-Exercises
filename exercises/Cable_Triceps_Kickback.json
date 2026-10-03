@@ -1,0 +1,27 @@
+{
+  "id": "Cable_Triceps_Kickback",
+  "name": "Cable Triceps Kickback",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "cable",
+  "primaryMuscles": [
+    "triceps"
+  ],
+  "secondaryMuscles": [
+    "shoulders"
+  ],
+  "instructions": [
+    "Set a pulley low, hinge forward with a flat back, and hold the handle with your upper arm parallel to your torso and your elbow bent.",
+    "Extend your elbow until your arm is straight behind you.",
+    "Pause and squeeze your triceps, then return slowly.",
+    "Keep your upper arm still and complete all reps before switching sides."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Hinged forward with the upper arm parallel to the torso and the elbow bent holding the handle."
+}

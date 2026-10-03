@@ -1,0 +1,29 @@
+{
+  "id": "Dumbbell_Hip_Thrust",
+  "name": "Dumbbell Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps",
+    "lower back"
+  ],
+  "instructions": [
+    "Sit on the floor with your upper back against a bench and a dumbbell resting across your hips.",
+    "Plant your feet and drive through your heels to lift your hips until your torso is parallel to the floor.",
+    "Squeeze your glutes at the top, keeping your ribs down.",
+    "Lower your hips under control."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With the upper back on a bench, a dumbbell across the hips and the knees bent."
+}

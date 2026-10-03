@@ -1,0 +1,28 @@
+{
+  "id": "Machine_Hip_Thrust",
+  "name": "Machine Hip Thrust",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Sit in the machine with your upper back against the pad and the belt across your hips, feet flat.",
+    "Drive through your heels and lift your hips until your torso is parallel to the floor.",
+    "Squeeze your glutes at the top.",
+    "Lower slowly."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated in a hip thrust machine with the upper back on the pad and the belt across the hips."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Donkey_Kick",
+  "name": "Donkey Kick",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back"
+  ],
+  "instructions": [
+    "Start on your hands and knees with your back flat.",
+    "Keeping your knee bent at 90 degrees, lift one leg up until your thigh is in line with your torso.",
+    "Squeeze your glute at the top, then lower.",
+    "Keep your hips level and avoid arching your lower back. Complete all reps, then switch."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "On hands and knees with the back flat."
+}

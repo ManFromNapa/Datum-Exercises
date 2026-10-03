@@ -1,0 +1,28 @@
+{
+  "id": "Single-Leg_Press",
+  "name": "Single-Leg Press",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "machine",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Sit in the leg press and place one foot flat in the middle of the platform, with the other leg off it.",
+    "Lower the platform until your knee is bent about 90 degrees.",
+    "Press through your heel to straighten your leg without locking out the knee.",
+    "Complete all reps, then switch legs."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Seated in the leg press with one foot on the platform and the other leg off it."
+}

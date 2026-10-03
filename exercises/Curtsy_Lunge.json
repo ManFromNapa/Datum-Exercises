@@ -1,0 +1,29 @@
+{
+  "id": "Curtsy_Lunge",
+  "name": "Curtsy Lunge",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "quadriceps",
+    "adductors",
+    "hamstrings"
+  ],
+  "instructions": [
+    "Stand tall holding a dumbbell at your chest.",
+    "Step one foot behind and across your body, as if curtsying, and lower until your front thigh is about parallel.",
+    "Push through your front foot to stand and bring the back foot back.",
+    "Complete your reps on one side or alternate legs, keeping your hips square."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing holding a dumbbell at the chest."
+}

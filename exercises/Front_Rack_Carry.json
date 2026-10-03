@@ -1,0 +1,30 @@
+{
+  "id": "Front_Rack_Carry",
+  "name": "Front Rack Carry",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "shoulders",
+    "glutes",
+    "quadriceps",
+    "forearms"
+  ],
+  "instructions": [
+    "Clean a kettlebell, or two, to the front rack position with your elbows tucked to your sides.",
+    "Brace your core and stand tall.",
+    "Walk with short, steady steps for the set distance or time.",
+    "Keep your torso upright and do not lean back."
+  ],
+  "category": "strongman",
+  "images": [],
+  "isTimeBased": true,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing holding a kettlebell in the front rack position."
+}

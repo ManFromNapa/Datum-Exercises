@@ -1,0 +1,29 @@
+{
+  "id": "Scapular_Push-Up",
+  "name": "Scapular Push-Up",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "middle back"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Start in a high plank with your arms fully locked out and your hands under your shoulders.",
+    "Without bending your elbows, let your chest sink between your shoulder blades.",
+    "Push the floor away and spread your shoulder blades wide apart.",
+    "Keep your body straight and move only at the shoulder blades."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "In a high plank with the arms locked straight."
+}

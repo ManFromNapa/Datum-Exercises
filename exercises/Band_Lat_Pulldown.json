@@ -1,0 +1,29 @@
+{
+  "id": "Band_Lat_Pulldown",
+  "name": "Band Lat Pulldown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "bands",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "biceps",
+    "middle back",
+    "shoulders"
+  ],
+  "instructions": [
+    "Anchor a resistance band high overhead, kneel facing it, and grip the band with your arms extended up.",
+    "Pull your elbows down and back toward your ribs until your hands reach about chin height.",
+    "Squeeze your lats, then slowly let your arms rise back to the start.",
+    "Keep your chest tall and do not lean back."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Kneeling with the band anchored overhead and the arms extended up."
+}

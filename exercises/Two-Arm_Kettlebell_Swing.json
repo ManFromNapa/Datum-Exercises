@@ -1,0 +1,32 @@
+{
+  "id": "Two-Arm_Kettlebell_Swing",
+  "name": "Two-Arm Kettlebell Swing",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "glutes"
+  ],
+  "secondaryMuscles": [
+    "hamstrings",
+    "lower back",
+    "shoulders",
+    "abdominals"
+  ],
+  "instructions": [
+    "Stand with your feet slightly wider than your shoulders and a kettlebell on the floor in front of you. Hinge, grip the handle with both hands, and hike it back between your legs.",
+    "Drive your hips forward powerfully so the kettlebell swings up to chest height.",
+    "Let it fall back and hinge your hips to guide it between your legs.",
+    "Keep your back flat and do not squat. The power comes from the hips, not the arms."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [
+    "Kettlebell Swing"
+  ],
+  "retired": false,
+  "image_prompt_scene": "Hinged forward with a kettlebell hanging between the legs and both hands on the handle."
+}

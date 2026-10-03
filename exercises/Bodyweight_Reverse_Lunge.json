@@ -1,0 +1,29 @@
+{
+  "id": "Bodyweight_Reverse_Lunge",
+  "name": "Bodyweight Reverse Lunge",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "calves"
+  ],
+  "instructions": [
+    "Stand tall with your hands on your hips.",
+    "Step one foot back and lower until both knees are bent about 90 degrees.",
+    "Push through your front foot to return to standing.",
+    "Alternate legs and keep your torso upright."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing tall with the hands on the hips."
+}

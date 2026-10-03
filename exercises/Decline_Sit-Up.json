@@ -1,0 +1,27 @@
+{
+  "id": "Decline_Sit-Up",
+  "name": "Decline Sit-Up",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "quadriceps"
+  ],
+  "instructions": [
+    "Lie on a decline bench, head end lower than your feet, with your feet hooked securely under the pads and your arms crossed on your chest.",
+    "Curl your torso up by flexing your spine until your chest moves toward your thighs.",
+    "Lower back down slowly until your shoulders almost touch the bench.",
+    "The decline makes this harder than a flat sit-up. Keep your neck relaxed and avoid yanking yourself up with momentum."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on a decline bench with the feet hooked under the pads and arms crossed on the chest."
+}

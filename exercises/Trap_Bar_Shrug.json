@@ -1,0 +1,27 @@
+{
+  "id": "Trap_Bar_Shrug",
+  "name": "Trap Bar Shrug",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "other",
+  "primaryMuscles": [
+    "traps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Stand inside a trap bar and grip the handles with your arms straight at your sides.",
+    "Shrug your shoulders straight up toward your ears as high as you can.",
+    "Pause at the top, then lower slowly.",
+    "Do not roll your shoulders or bend your elbows."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Standing inside a trap bar holding the handles with the arms straight."
+}

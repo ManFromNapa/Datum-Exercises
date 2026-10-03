@@ -1,0 +1,25 @@
+{
+  "id": "Tibialis_Raise",
+  "name": "Tibialis Raise",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Lean your back against a wall with your feet a step or two in front of you and your legs straight.",
+    "Keep your heels on the floor and lift your toes toward your shins as high as you can.",
+    "Pause, then lower slowly.",
+    "Move your feet farther from the wall to make it harder."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "With the back against a wall, the feet forward and the heels planted."
+}

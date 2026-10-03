@@ -1,0 +1,28 @@
+{
+  "id": "Dumbbell_Squeeze_Press",
+  "name": "Dumbbell Squeeze Press",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "dumbbell",
+  "primaryMuscles": [
+    "chest"
+  ],
+  "secondaryMuscles": [
+    "triceps",
+    "shoulders"
+  ],
+  "instructions": [
+    "Lie on a flat bench holding two dumbbells together above your chest with your palms facing each other.",
+    "Squeeze the dumbbells firmly against each other and keep that pressure throughout.",
+    "Lower the dumbbells to your mid-chest, keeping them touching.",
+    "Press back up to the start, still squeezing."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Lying on a flat bench with two dumbbells pressed together above the chest."
+}

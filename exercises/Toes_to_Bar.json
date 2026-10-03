@@ -1,0 +1,29 @@
+{
+  "id": "Toes_to_Bar",
+  "name": "Toes to Bar",
+  "force": "pull",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "abdominals"
+  ],
+  "secondaryMuscles": [
+    "forearms",
+    "lats",
+    "shoulders"
+  ],
+  "instructions": [
+    "Grip a pull-up bar and hang with your arms straight and your body in a long line.",
+    "Press down slightly on the bar and lift your straight or slightly bent legs up until your toes touch the bar.",
+    "Lower your legs back down under control and let them swing slightly behind you.",
+    "Keep the swing small and controlled to protect your shoulders. Build up with hanging knee raises first."
+  ],
+  "category": "strength",
+  "images": [],
+  "isTimeBased": false,
+  "isPerSide": false,
+  "aliases": [],
+  "retired": false,
+  "image_prompt_scene": "Hanging from a pull-up bar with the body straight."
+}
