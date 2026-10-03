@@ -4,6 +4,7 @@
 Usage:
   python3 prompts.py --id <id> [--tool chatgpt|gemini|midjourney]
   python3 prompts.py --missing [--batch N] [--offset M | --batch-index K] [--tool ...]
+  add --person N (1-based, from the People list) or --person-text "..." to override the person
 
 --missing lists exercises with no bundled app image and no remote image, sorted by id.
 Set DATUM_APP_DIR to the datum app repo (default ../datum) to find the bundled images.
@@ -21,10 +22,14 @@ def read_style():
     params = re.search(r"^midjourney_params:\s*(.+)$", text, re.M)
     if not block or not params:
         sys.exit("image-style.md needs a style block between the markers and a midjourney_params line")
-    return " ".join(block.group(1).split()), params.group(1).strip()
+    people = re.search(r"<!-- people:start -->\s*(.*?)\s*<!-- people:end -->", text, re.S)
+    if not people or "{person}" not in block.group(1):
+        sys.exit("image-style.md needs a people list between its markers and {person} in the style block")
+    persons = [line.strip() for line in people.group(1).splitlines() if line.strip()]
+    return " ".join(block.group(1).split()), params.group(1).strip(), persons
 
 
-def build_prompt(e, style, params, tool):
+def build_prompt(e, style, params, tool, person):
     scene = e.get("image_prompt_scene")
     if not scene:
         steps = e.get("instructions") or []
@@ -32,7 +37,7 @@ def build_prompt(e, style, params, tool):
         print(f"note: {e['id']} has no image_prompt_scene; using the first instruction step", file=sys.stderr)
     scene = scene.strip().rstrip(".!?")
     equipment = e.get("equipment") or "none"
-    text = f"Exercise: {e['name']}. Start position: {scene}. Equipment: {equipment}. {style}"
+    text = f"Exercise: {e['name']}. Start position: {scene}. Equipment: {equipment}. {style.replace('{person}', person)}"
     return f"{text} {params}" if tool == "midjourney" else text
 
 
@@ -43,6 +48,8 @@ def main():
     ap.add_argument("--batch", type=int, metavar="N", help="take N missing exercises")
     ap.add_argument("--offset", type=int, default=None, help="skip this many missing exercises first")
     ap.add_argument("--batch-index", type=int, default=None, help="skip K*N missing exercises (0-based batch number)")
+    ap.add_argument("--person", type=int, metavar="N", help="use person N (1-based) from the People list for every prompt")
+    ap.add_argument("--person-text", help="use this description of the person for every prompt")
     ap.add_argument("--tool", choices=["chatgpt", "gemini", "midjourney"], default="chatgpt")
     args = ap.parse_args()
     if bool(args.id) == args.missing:
@@ -53,7 +60,16 @@ def main():
         ap.error("--batch-index needs --batch")
 
     sources = load_sources()
-    style, params = read_style()
+    style, params, persons = read_style()
+    all_ids = sorted(sources)
+
+    def person_for(e):
+        if args.person_text:
+            return args.person_text.strip().rstrip(".")
+        if args.person:
+            return persons[(args.person - 1) % len(persons)]
+        return persons[all_ids.index(e["id"]) % len(persons)]
+
     if args.id:
         if args.id not in sources:
             sys.exit(f"unknown id {args.id}")
@@ -67,7 +83,7 @@ def main():
     for n, e in enumerate(chosen):
         if len(chosen) > 1:
             print(f"## {e['id']}")
-        print(build_prompt(e, style, params, args.tool))
+        print(build_prompt(e, style, params, args.tool, person_for(e)))
         if len(chosen) > 1 and n < len(chosen) - 1:
             print()
 

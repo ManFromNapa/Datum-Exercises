@@ -51,4 +51,4 @@ Setup: `pip install -r requirements.txt` (or use a `.venv`, which is gitignored)
 
 ## Images
 
-The 878 images bundled in the app are not copied here. This repo starts with no remote images. New and missing images are generated with AI tools (see `image-style.md`), so they will not exactly match the old photographs. The man, gym and lighting will be close but not identical. The mix is expected.
+The 878 images bundled in the app are not copied here. This repo starts with no remote images. New and missing images are generated with AI tools (see `image-style.md`), so they will not exactly match the old photographs. The gym and lighting will be close but not identical, and the person now varies (gender, ethnicity, age) from a list in `image-style.md`. The mix is expected.

@@ -1,6 +1,6 @@
 # Working conventions
 
-Local repo for the Datum exercise library. Never push. No GitHub repo or deploy exists yet.
+Repo for the Datum exercise library, at github.com/ManFromNapa/Datum-Exercises (public). Push only when Alex asks.
 
 - The served URL contract is fixed: `exercises.json`, `manifest.json` and `images/<id>.jpg` at the site root. Do not rename or move them.
 - Ids are permanent. Never delete an exercise or change its id. Retire it with `retired: true`.
