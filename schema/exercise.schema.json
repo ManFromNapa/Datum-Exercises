@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://exercises.datumfitness.app/schema/exercise.schema.json",
+  "title": "Datum exercise",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "name", "force", "level", "mechanic", "equipment", "primaryMuscles", "secondaryMuscles", "instructions", "category", "images"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[A-Za-z0-9][A-Za-z0-9_.,'()+-]*$" },
+    "name": { "type": "string", "minLength": 1 },
+    "force": { "enum": ["push", "pull", "static", null] },
+    "level": { "enum": ["beginner", "intermediate", "expert"] },
+    "mechanic": { "enum": ["compound", "isolation", null] },
+    "equipment": {
+      "enum": ["barbell", "dumbbell", "cable", "machine", "kettlebells", "bands", "medicine ball", "exercise ball", "foam roll", "e-z curl bar", "body only", "other", null]
+    },
+    "primaryMuscles": { "type": "array", "items": { "$ref": "#/$defs/muscle" }, "uniqueItems": true },
+    "secondaryMuscles": { "type": "array", "items": { "$ref": "#/$defs/muscle" }, "uniqueItems": true },
+    "instructions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "category": {
+      "enum": ["strength", "stretching", "cardio", "plyometrics", "powerlifting", "strongman", "olympic weightlifting"]
+    },
+    "images": { "type": "array", "items": { "type": "string" } },
+    "isTimeBased": { "type": "boolean" },
+    "isPerSide": { "type": "boolean" },
+    "aliases": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+    "retired": { "type": "boolean", "default": false },
+    "image_prompt_scene": { "type": "string", "minLength": 1 }
+  },
+  "$defs": {
+    "muscle": {
+      "enum": ["abdominals", "abductors", "adductors", "biceps", "calves", "chest", "forearms", "glutes", "hamstrings", "lats", "lower back", "middle back", "neck", "quadriceps", "shoulders", "traps", "triceps"]
+    }
+  }
+}
