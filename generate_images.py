@@ -103,6 +103,10 @@ def main():
         if args.batch:
             chosen = chosen[:args.batch]
 
+    if not chosen:
+        print("Every exercise already has an image. Nothing to generate.")
+        return
+
     key = os.environ.get("GEMINI_API_KEY")
     if not key and not args.dry_run:
         sys.exit("set GEMINI_API_KEY in your environment first (do not put it in the repo)")

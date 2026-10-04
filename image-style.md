@@ -6,7 +6,7 @@ Existing images are photographs of one man in a gym with a red wall and a wood f
 `prompts.py` reads the style block between the markers below and the `midjourney_params` line. Edit them here only.
 
 <!-- style-block:start -->
-Photorealistic photograph, 3:2 landscape. {person}, wearing a fitted dark athletic t-shirt, dark shorts and grey and white training shoes. Bright commercial gym with a red wall, a wood-grain floor and dark rubber mats, natural indoor light. Full body in frame. Camera at about chest height from a side or three-quarter angle. Correct anatomy and hands, realistic equipment. No text, no logos, no watermark, no other people.
+Photorealistic photograph, 3:2 landscape. {person}, wearing a fitted dark athletic t-shirt, dark shorts and grey and white training shoes. Bright commercial gym with a red wall, a wood-grain floor and dark rubber mats, natural indoor light. Full body in frame. Camera at about chest height from a side or three-quarter angle. Correct anatomy and hands, realistic equipment. No text, no logos, no wall graphics, no watermark, and no other people anywhere in the frame, including the background.
 <!-- style-block:end -->
 
 midjourney_params: --ar 3:2 --style raw

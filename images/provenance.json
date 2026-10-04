@@ -38,5 +38,357 @@
   "Band_Pass-Through": {
     "tool": "gemini",
     "date": "2026-10-03"
+  },
+  "Band_Row": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Band_Tricep_Pushdown": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Barbell_Reverse_Lunge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Barbell_Thruster": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Bayesian_Cable_Curl": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Bear_Crawl": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Belt_Squat": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Bird_Dog": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Bodyweight_Calf_Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Bodyweight_Lunge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Bodyweight_Reverse_Lunge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Burpee": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Butterfly_Stretch": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Cable_Hip_Abduction": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Cable_Triceps_Kickback": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Cable_Y-Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Clamshell": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Cobra": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Copenhagen_Plank": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Cossack_Squat": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Couch_Stretch": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Curtsy_Lunge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Decline_Sit-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Deep_Squat_Hold": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Donkey_Kick": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Downward_Dog": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dragon_Flag": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Clean_and_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Deadlift": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Glute_Bridge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Hip_Thrust": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Man_Maker": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Push_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Single-Leg_Romanian_Deadlift": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Snatch": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Squeeze_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Thruster": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Dumbbell_Walking_Lunge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Fire_Hydrant": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Frog_Stretch": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Front_Rack_Carry": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Hand_Gripper": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Hanging_Knee_Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Hanging_Windshield_Wiper": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "High_Knees": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Incline_Dumbbell_Y-Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Incline_Sit-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Jefferson_Curl": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Jumping_Jacks": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Kettlebell_Deadlift": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Knee_Push-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Kroc_Row": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Landmine_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Landmine_Rotation": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Landmine_Row": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Lateral_Lunge": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Machine_Hip_Thrust": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Machine_Lateral_Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Machine_Pullover": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Meadows_Row": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Overhead_Carry": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Pendlay_Row": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Pigeon_Pose": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Pike_Push-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Pistol_Squat": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Plank_Shoulder_Taps": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Prone_Y-T-W_Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Safety_Bar_Squat": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Sandbag_Carry": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Scapular_Push-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Seal_Row": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Single-Leg_Hip_Thrust": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Single-Leg_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Sissy_Squat": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Smith_Machine_Hip_Thrust": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Stir_the_Pot": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Suitcase_Carry": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Supine_Spinal_Twist": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Thoracic_Spine_Foam_Roll": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Thread_the_Needle": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Tibialis_Raise": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Toes_to_Bar": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Trap_Bar_Shrug": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Two-Arm_Kettlebell_Swing": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Wall_Ball": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Wall_Push-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Wall_Slide": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Z_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
   }
 }
