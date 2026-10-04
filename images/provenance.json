@@ -1,1 +1,42 @@
-{}
+{
+  "90_90_Hip_Switch": {
+    "tool": "chatgpt",
+    "date": "2026-10-03"
+  },
+  "Adductor_Foam_Roll": {
+    "tool": "chatgpt",
+    "date": "2026-10-03"
+  },
+  "Archer_Push-Up": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Assisted_Dips": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Assisted_Pull-Up_Machine": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Band_Bicep_Curl": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Band_Chest_Press": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Band_Face_Pull": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Band_Lat_Pulldown": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  },
+  "Band_Pass-Through": {
+    "tool": "gemini",
+    "date": "2026-10-03"
+  }
+}
