@@ -58,6 +58,9 @@ def check_exercises(sources):
     schema = json.loads((ROOT / "schema/exercise.schema.json").read_text(encoding="utf-8"))
     validator = Draft202012Validator(schema)
     names = {}
+    # An alias may repeat the name of a retired exercise: that is how a merged exercise keeps its
+    # old name searchable (Side Bridge on Side Plank). Retired names still count for duplicate names.
+    live_names = {}
     for ex_id, e in sources.items():
         label = f"exercises/{ex_id}.json"
         for problem in validator.iter_errors(e):
@@ -70,6 +73,8 @@ def check_exercises(sources):
         if key in names:
             err(f"{label}: normalized name {key!r} also used by {names[key]}")
         names[key] = ex_id
+        if not e.get("retired", False):
+            live_names[key] = ex_id
         for field in ("primaryMuscles", "secondaryMuscles"):
             for m in e.get(field, []):
                 if m not in MUSCLES:
@@ -102,8 +107,8 @@ def check_exercises(sources):
             if key in seen_here:
                 err(f"{label}: duplicate alias {alias!r}")
             seen_here.add(key)
-            if key in names:
-                err(f"{label}: alias {alias!r} equals the name of {names[key]}")
+            if key in live_names:
+                err(f"{label}: alias {alias!r} equals the name of {live_names[key]}")
             if key in alias_owner and alias_owner[key] != ex_id:
                 err(f"{label}: alias {alias!r} also used by {alias_owner[key]}")
             alias_owner.setdefault(key, ex_id)

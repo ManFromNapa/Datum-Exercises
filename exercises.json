@@ -19592,7 +19592,8 @@
       "Side_Bridge/1.jpg"
     ],
     "id": "Side_Bridge",
-    "isTimeBased": true
+    "isTimeBased": true,
+    "retired": true
   },
   {
     "name": "Side Hop-Sprint",
@@ -19785,7 +19786,10 @@
     "images": [],
     "id": "Side_Plank",
     "isTimeBased": true,
-    "isPerSide": true
+    "isPerSide": true,
+    "aliases": [
+      "Side Bridge"
+    ]
   },
   {
     "name": "Side Standing Long Jump",

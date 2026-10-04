@@ -19,5 +19,8 @@
   "images": [],
   "id": "Side_Plank",
   "isTimeBased": true,
-  "isPerSide": true
+  "isPerSide": true,
+  "aliases": [
+    "Side Bridge"
+  ]
 }

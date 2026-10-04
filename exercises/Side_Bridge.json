@@ -22,5 +22,6 @@
     "Side_Bridge/1.jpg"
   ],
   "id": "Side_Bridge",
-  "isTimeBased": true
+  "isTimeBased": true,
+  "retired": true
 }
