@@ -52,3 +52,13 @@ Setup: `pip install -r requirements.txt` (or use a `.venv`, which is gitignored)
 ## Images
 
 The 878 images bundled in the app are not copied here. This repo starts with no remote images. New and missing images are generated with AI tools (see `image-style.md`), so they will not exactly match the old photographs. The gym and lighting will be close but not identical, and the person now varies (gender, ethnicity, age) from a list in `image-style.md`. The mix is expected.
+
+## Generating images in bulk (Gemini)
+
+1. `export GEMINI_API_KEY=...` (never commit the key).
+2. `python3 generate_images.py --missing --batch 5` (try a few first). It builds each prompt, calls the Gemini image API, saves the raw file to `staging/` and runs `process_image.py` (tool recorded as `gemini`). Safe to re-run: exercises that already have an image are skipped.
+3. `python3 review_sheet.py --tool gemini`, then open `review.html` and note the ids with wrong anatomy, hands or equipment.
+4. Redo any with `python3 generate_images.py --id <id> --force`.
+5. `python3 validate.py`, bump `content_version` and `updated`, commit, push.
+
+`--dry-run` prints the prompts without calling the API. The API is billed per image and has no free tier.

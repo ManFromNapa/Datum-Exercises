@@ -29,6 +29,11 @@ def read_style():
     return " ".join(block.group(1).split()), params.group(1).strip(), persons
 
 
+def default_person(exercise_id, all_ids, persons):
+    """The person an exercise always gets: its position in the sorted id list, modulo the list length."""
+    return persons[all_ids.index(exercise_id) % len(persons)]
+
+
 def build_prompt(e, style, params, tool, person):
     scene = e.get("image_prompt_scene")
     if not scene:
@@ -68,7 +73,7 @@ def main():
             return args.person_text.strip().rstrip(".")
         if args.person:
             return persons[(args.person - 1) % len(persons)]
-        return persons[all_ids.index(e["id"]) % len(persons)]
+        return default_person(e["id"], all_ids, persons)
 
     if args.id:
         if args.id not in sources:
