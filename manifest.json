@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "content_version": 4,
+  "content_version": 5,
   "updated": "2026-10-03",
   "exercises_file": "exercises.json",
   "exercises_sha256": "6890011d74e1b90fb74cbb65e1836e955b8ea71806b6fb686346b0f478e275d7",
@@ -15,7 +15,7 @@
     "Band_Chest_Press": "ebcdd89ae91ef504",
     "Band_Face_Pull": "fa0e1a403b04a03a",
     "Band_Lat_Pulldown": "eb8c83c855b00e58",
-    "Band_Pass-Through": "1cedaae481f45e90",
+    "Band_Pass-Through": "8dac356500ab922b",
     "Band_Row": "0abc0e59016b8cd4",
     "Band_Tricep_Pushdown": "49d558ff62f9e2a1",
     "Barbell_Reverse_Lunge": "aa425131183eb7e5",
