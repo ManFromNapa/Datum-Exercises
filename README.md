@@ -14,7 +14,7 @@ The exercise library for the Datum iOS app, served at `exercises.datumfitness.ap
 The 879 original exercises keep the shape of the app's bundled seed: `id`, `name`, `force`, `level`, `mechanic`, `equipment`, `primaryMuscles`, `secondaryMuscles`, `instructions`, `category`, `images`. Optional additions:
 
 - `isTimeBased`, `isPerSide`: booleans, absent means false.
-- `aliases`: other names people search for. An alias must not equal any exercise name or any other alias after normalization (lowercase, no diacritics, every run of non-alphanumerics becomes one space).
+- `aliases`: other names people search for. An alias must not equal the name of any live (not retired) exercise or any other alias after normalization; it may repeat the name of a retired exercise, which is how a merged exercise keeps its old name searchable (lowercase, no diacritics, every run of non-alphanumerics becomes one space).
 - `retired`: true hides an exercise from new use. The file stays and the id is never reused.
 - `image_prompt_scene`: repo-only (stripped from `exercises.json`). One sentence describing the start position, used by `prompts.py`.
 
