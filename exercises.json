@@ -1513,6 +1513,7 @@
       "lower back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "forearms",
       "glutes",
@@ -1549,6 +1550,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -1631,9 +1633,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "forearms",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Stand up straight while holding a barbell behind you at arms length and your feet at shoulder width. Tip: A shoulder width grip is best with the palms of your hands facing back. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
@@ -1735,9 +1739,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
@@ -1793,7 +1799,9 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "calves"
+      "calves",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand with a barbell across your upper back and your feet hip-width apart.",
@@ -1976,6 +1984,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "hamstrings",
       "lower back"
@@ -2003,6 +2012,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -2036,6 +2046,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -2068,9 +2079,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
+      "lower back",
       "quadriceps"
     ],
     "instructions": [
@@ -2099,7 +2112,9 @@
       "glutes",
       "shoulders",
       "triceps",
-      "hamstrings"
+      "hamstrings",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Hold a barbell in the front rack position across your shoulders, elbows high, with your feet shoulder-width apart.",
@@ -2125,9 +2140,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Begin standing with your feet shoulder width apart and a barbell across your upper back.",
@@ -2560,8 +2577,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
       "lats",
+      "lower back",
       "shoulders"
     ],
     "instructions": [
@@ -2639,6 +2658,7 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
       "lats",
       "lower back",
@@ -2669,8 +2689,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
-      "lats"
+      "lats",
+      "lower back"
     ],
     "instructions": [
       "Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.",
@@ -2697,8 +2719,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
       "lats",
+      "lower back",
       "shoulders"
     ],
     "instructions": [
@@ -2724,8 +2748,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
-      "lats"
+      "lats",
+      "lower back"
     ],
     "instructions": [
       "With a dumbbell in each hand (palms facing each other), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.",
@@ -2988,7 +3014,9 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "calves"
+      "calves",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand tall with your hands on your hips.",
@@ -3041,7 +3069,9 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "calves"
+      "calves",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand tall with your hands on your hips.",
@@ -3067,8 +3097,10 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Stand with your feet shoulder width apart. You can place your hands behind your head. This will be your starting position.",
@@ -3092,9 +3124,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Begin standing with your feet shoulder width apart and your hands on your hips.",
@@ -3311,6 +3345,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "abductors",
       "adductors",
       "calves",
@@ -3605,6 +3640,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "forearms",
       "glutes",
       "hamstrings",
@@ -4086,6 +4122,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "triceps"
     ],
     "instructions": [
@@ -5571,7 +5609,9 @@
     "secondaryMuscles": [
       "quadriceps",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand with your feet much wider than your shoulders and your toes turned slightly out, hands clasped at your chest.",
@@ -5855,7 +5895,9 @@
     "secondaryMuscles": [
       "quadriceps",
       "adductors",
-      "hamstrings"
+      "hamstrings",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand tall holding a dumbbell at your chest.",
@@ -6604,7 +6646,9 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
+      "lower back",
       "quadriceps",
       "triceps"
     ],
@@ -6980,8 +7024,10 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
       "hamstrings",
+      "lower back",
       "quadriceps",
       "traps",
       "triceps"
@@ -7013,7 +7059,8 @@
       "glutes",
       "lower back",
       "forearms",
-      "traps"
+      "traps",
+      "abdominals"
     ],
     "instructions": [
       "Stand with your feet hip-width apart and a dumbbell on the floor beside each foot, then hinge at the hips and grip them.",
@@ -7197,9 +7244,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.",
@@ -7460,7 +7509,9 @@
     "secondaryMuscles": [
       "triceps",
       "quadriceps",
-      "traps"
+      "traps",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand with a dumbbell in each hand at your shoulders, feet shoulder-width apart.",
@@ -7511,9 +7562,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.",
@@ -7692,7 +7745,8 @@
     "secondaryMuscles": [
       "glutes",
       "lower back",
-      "forearms"
+      "forearms",
+      "abdominals"
     ],
     "instructions": [
       "Stand on one leg with a slight bend in the knee, holding a dumbbell in each hand in front of your thighs.",
@@ -7747,6 +7801,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -7776,6 +7831,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -7832,9 +7888,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Stand up straight while holding a dumbbell on each hand (palms facing the side of your legs).",
@@ -7862,7 +7920,9 @@
       "glutes",
       "shoulders",
       "triceps",
-      "hamstrings"
+      "hamstrings",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand holding a dumbbell in each hand at your shoulders, feet shoulder-width apart.",
@@ -7913,7 +7973,9 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "calves"
+      "calves",
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand tall with a dumbbell in each hand at your sides.",
@@ -8103,8 +8165,10 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Position a bar onto a rack at shoulder height loaded to an appropriate weight. Place a short, raised platform behind you.",
@@ -8739,9 +8803,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Cross your arms over your chest.",
@@ -8846,9 +8912,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, bring your arms up under the bar while keeping the elbows high and the upper arm slightly above parallel to the floor. Rest the bar on top of the deltoids and cross your arms while grasping the bar for total control.",
@@ -8875,9 +8943,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "This exercise is best performed inside a squat rack for safety purposes. To begin, first set a flat bench behind you and set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, bring your arms up under the bar while keeping the elbows high and the upper arm slightly above parallel to the floor. Rest the bar on top of the deltoids and cross your arms while grasping the bar for total control.",
@@ -9137,7 +9207,8 @@
     "secondaryMuscles": [
       "abdominals",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "To begin, first set the bar in a rack slightly below shoulder level. Rest the bar on top of the deltoids, pushing into the clavicles, and lightly touching the throat. Your hands should be in a clean grip, touching the bar only with your fingers to help keep it in position.",
@@ -9162,8 +9233,10 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
-      "glutes"
+      "glutes",
+      "lower back"
     ],
     "instructions": [
       "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
@@ -9313,9 +9386,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
+      "lower back",
       "shoulders"
     ],
     "instructions": [
@@ -11215,6 +11290,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -11384,6 +11460,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "triceps"
     ],
     "instructions": [
@@ -11438,7 +11516,8 @@
     "secondaryMuscles": [
       "glutes",
       "lower back",
-      "forearms"
+      "forearms",
+      "abdominals"
     ],
     "instructions": [
       "Stand with your feet hip-width apart and the kettlebell between them, then hinge at the hips and grip the handle with both hands.",
@@ -11516,6 +11595,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
       "lower back"
     ],
@@ -11591,9 +11671,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
+      "lower back",
       "shoulders"
     ],
     "instructions": [
@@ -11694,6 +11776,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "quadriceps",
       "triceps"
     ],
@@ -12365,7 +12449,8 @@
     "secondaryMuscles": [
       "lats",
       "biceps",
-      "lower back"
+      "lower back",
+      "abdominals"
     ],
     "instructions": [
       "Anchor one end of a barbell and stand over the bar, straddling it with a V-handle or both hands gripping the bar end.",
@@ -12483,9 +12568,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "adductors",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Stand tall with your feet together and your hands clasped at your chest.",
@@ -13186,8 +13273,10 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
+      "lower back",
       "quadriceps"
     ],
     "instructions": [
@@ -13970,7 +14059,8 @@
       "middle back",
       "biceps",
       "forearms",
-      "lower back"
+      "lower back",
+      "abdominals"
     ],
     "instructions": [
       "Anchor one end of a barbell and stand perpendicular to it in a staggered stance, then hinge forward and grip the free end of the bar with one hand.",
@@ -14339,6 +14429,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -14781,6 +14872,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "triceps"
     ],
     "instructions": [
@@ -14829,7 +14922,9 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
+      "lower back",
       "quadriceps",
       "triceps"
     ],
@@ -14855,8 +14950,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
-      "lats"
+      "lats",
+      "lower back"
     ],
     "instructions": [
       "Place a kettlebell in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position. Grab the kettlebell and pull it to your stomach, retracting your shoulder blade and flexing the elbow. Keep your back straight. Lower and repeat."
@@ -14991,8 +15088,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
-      "lats"
+      "lats",
+      "lower back"
     ],
     "instructions": [
       "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
@@ -15073,9 +15172,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
+      "lower back",
       "shoulders"
     ],
     "instructions": [
@@ -15473,9 +15574,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Start by standing about 2 to 3 feet in front of a flat bench with your back facing the bench. Have a barbell in front of you on the floor. Tip: Your feet should be shoulder width apart from each other.",
@@ -15960,7 +16063,8 @@
       "lats",
       "biceps",
       "lower back",
-      "traps"
+      "traps",
+      "abdominals"
     ],
     "instructions": [
       "Stand with your feet hip-width apart, hinge forward until your torso is parallel to the floor, and grip the barbell on the floor with a flat back.",
@@ -16164,7 +16268,8 @@
     "secondaryMuscles": [
       "glutes",
       "hamstrings",
-      "abdominals"
+      "abdominals",
+      "lower back"
     ],
     "instructions": [
       "Stand on one leg with the other leg extended in front of you and your arms forward for balance.",
@@ -16316,7 +16421,8 @@
       "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Hold a dumbbell at the base with both hands and stand straight up. Move your legs so that they are wider than shoulder width apart from each other with your knees slightly bent.",
@@ -17651,8 +17757,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
       "lats",
+      "lower back",
       "shoulders"
     ],
     "instructions": [
@@ -17999,6 +18107,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "lower back"
@@ -18291,6 +18400,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
       "hamstrings",
       "lower back"
@@ -19441,7 +19551,9 @@
       "lats"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
+      "lower back",
       "middle back"
     ],
     "instructions": [
@@ -19490,6 +19602,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "triceps"
     ],
     "instructions": [
@@ -20012,8 +20126,10 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Position a box in a rack. Secure a band or rope in place above the box.",
@@ -21352,6 +21468,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -21613,8 +21730,10 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Position yourself into a staggered stance with the rear foot elevated and front foot forward.",
@@ -21668,9 +21787,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
+      "lower back",
       "shoulders",
       "triceps"
     ],
@@ -21754,11 +21875,13 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "abductors",
       "adductors",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "To begin, first set the bar on a rack to just below shoulder level. Position a weight plate on the ground a couple feet back from the rack. Once the bar is loaded, step under it and place the back of your shoulders across it.",
@@ -21787,6 +21910,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -22623,6 +22747,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "triceps"
     ],
     "instructions": [
@@ -23027,7 +23153,9 @@
       "glutes"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "hamstrings",
+      "lower back",
       "quadriceps"
     ],
     "instructions": [
@@ -23077,6 +23205,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
       "lower back"
     ],
@@ -23104,6 +23233,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
       "lower back"
     ],
@@ -23706,11 +23836,13 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "abductors",
       "adductors",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Suspend your straps so the handles are 18-30 inches from the floor.",
@@ -23762,8 +23894,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
-      "lats"
+      "lats",
+      "lower back"
     ],
     "instructions": [
       "Position a bar into a landmine or in a corner to keep it from moving. Load an appropriate weight onto your end.",
@@ -24107,8 +24241,10 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "For this exercise load a trap bar, also known as a hex bar, to an appropriate weight resting on the ground. Stand in the center of the apparatus and grasp both handles.",
@@ -24423,6 +24559,8 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "abdominals",
+      "lower back",
       "triceps"
     ],
     "instructions": [
@@ -24446,8 +24584,10 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "biceps",
-      "lats"
+      "lats",
+      "lower back"
     ],
     "instructions": [
       "Place two kettlebells in front of your feet. Bend your knees slightly and then push your butt out as much as possible as you bend over to get in the starting position.",
@@ -24999,6 +25139,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -25103,9 +25244,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "Start by positioning two flat benches shoulder width apart from each other. Stand on top of them and wrap the weighted belt around your waist with the amount of weight you feel comfortable with. Make sure your toes are facing out.",
@@ -25321,6 +25464,7 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
       "hamstrings",
@@ -25582,9 +25726,11 @@
       "quadriceps"
     ],
     "secondaryMuscles": [
+      "abdominals",
       "calves",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lower back"
     ],
     "instructions": [
       "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. The correct height should be anywhere above the waist but below the chest. Once the correct height is chosen and the bar is loaded, lock your hands together and place the bar on top of your arms in between the forearm and upper arm.",
