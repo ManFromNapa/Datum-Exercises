@@ -520,6 +520,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -1770,6 +1771,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats",
       "middle back"
     ],
@@ -2579,6 +2581,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back",
       "shoulders"
@@ -2660,6 +2663,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back",
       "traps"
@@ -2691,6 +2695,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back"
     ],
@@ -2721,6 +2726,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back",
       "shoulders"
@@ -2750,6 +2756,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back"
     ],
@@ -3043,6 +3050,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -3668,7 +3676,9 @@
     "primaryMuscles": [
       "biceps"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Attach a rope attachment to a low pulley and stand facing the machine about 12 inches away from it.",
       "Grasp the rope with a neutral (palms-in) grip and stand straight up keeping the natural arch of the back and your torso stationary.",
@@ -5132,6 +5142,7 @@
     ],
     "secondaryMuscles": [
       "abdominals",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -5168,6 +5179,7 @@
     "secondaryMuscles": [
       "abdominals",
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -5204,6 +5216,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "shoulders",
@@ -6674,6 +6687,7 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "forearms",
       "glutes",
       "hamstrings",
       "quadriceps"
@@ -7025,6 +7039,7 @@
     ],
     "secondaryMuscles": [
       "abdominals",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -7456,6 +7471,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "traps"
     ],
     "instructions": [
@@ -7772,6 +7788,7 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "forearms",
       "glutes",
       "hamstrings",
       "quadriceps",
@@ -8044,7 +8061,9 @@
     "primaryMuscles": [
       "biceps"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position.",
       "Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms.",
@@ -9567,7 +9586,9 @@
     "primaryMuscles": [
       "biceps"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
       "The palms of the hands should be facing your torso. This will be your starting position.",
@@ -9895,7 +9916,9 @@
     "primaryMuscles": [
       "abdominals"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.",
       "Raise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.",
@@ -9918,7 +9941,9 @@
     "primaryMuscles": [
       "abdominals"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Hang from a chin-up bar with your legs and feet together using an overhand grip (palms facing away from you) that is slightly wider than shoulder width. Tip: You may use wrist wraps in order to facilitate holding on to the bar.",
       "Now bend your knees at a 90 degree angle and bring the upper legs forward so that the calves are perpendicular to the floor while the thighs remain parallel to it. This will be your starting position.",
@@ -10674,7 +10699,9 @@
     "primaryMuscles": [
       "biceps"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Seat yourself on an incline bench with a dumbbell in each hand. You should pressed firmly against he back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position.",
       "Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary.",
@@ -10977,6 +11004,7 @@
       "middle back"
     ],
     "secondaryMuscles": [
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -11004,6 +11032,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -11487,6 +11516,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "lower back",
       "quadriceps",
@@ -11568,6 +11598,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "lower back",
       "shoulders",
@@ -11596,6 +11627,7 @@
     ],
     "secondaryMuscles": [
       "abdominals",
+      "forearms",
       "glutes",
       "lower back"
     ],
@@ -11750,6 +11782,7 @@
     ],
     "secondaryMuscles": [
       "adductors",
+      "forearms",
       "glutes",
       "hamstrings",
       "quadriceps",
@@ -12450,7 +12483,8 @@
       "lats",
       "biceps",
       "lower back",
-      "abdominals"
+      "abdominals",
+      "forearms"
     ],
     "instructions": [
       "Anchor one end of a barbell and stand over the bar, straddling it with a V-handle or both hands gripping the bar end.",
@@ -13379,6 +13413,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats",
       "traps"
     ],
@@ -14312,6 +14347,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "forearms",
       "glutes",
       "lower back",
       "quadriceps",
@@ -14663,6 +14699,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats",
       "shoulders"
     ],
@@ -14769,6 +14806,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "forearms",
       "glutes",
       "lower back",
       "shoulders",
@@ -14795,7 +14833,9 @@
     "primaryMuscles": [
       "shoulders"
     ],
-    "secondaryMuscles": [],
+    "secondaryMuscles": [
+      "forearms"
+    ],
     "instructions": [
       "Hold a kettlebell by the handle.",
       "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",
@@ -14952,6 +14992,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back"
     ],
@@ -14976,6 +15017,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -15033,6 +15075,7 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "forearms",
       "hamstrings",
       "quadriceps"
     ],
@@ -15090,6 +15133,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back"
     ],
@@ -15203,6 +15247,7 @@
     "secondaryMuscles": [
       "abdominals",
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -15606,6 +15651,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "forearms",
       "glutes",
       "lower back",
       "quadriceps",
@@ -15687,7 +15733,8 @@
     "secondaryMuscles": [
       "abdominals",
       "triceps",
-      "traps"
+      "traps",
+      "forearms"
     ],
     "instructions": [
       "Press a dumbbell overhead with one arm and lock out your elbow.",
@@ -16064,7 +16111,8 @@
       "biceps",
       "lower back",
       "traps",
-      "abdominals"
+      "abdominals",
+      "forearms"
     ],
     "instructions": [
       "Stand with your feet hip-width apart, hinge forward until your torso is parallel to the floor, and grip the barbell on the floor with a flat back.",
@@ -16579,6 +16627,7 @@
       "hamstrings"
     ],
     "secondaryMuscles": [
+      "forearms",
       "quadriceps"
     ],
     "instructions": [
@@ -16661,6 +16710,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "lower back",
       "quadriceps",
@@ -16936,6 +16986,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "middle back"
     ],
     "instructions": [
@@ -17516,6 +17567,7 @@
       "abductors",
       "adductors",
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "quadriceps"
@@ -17759,6 +17811,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back",
       "shoulders"
@@ -18109,6 +18162,7 @@
     "secondaryMuscles": [
       "abdominals",
       "calves",
+      "forearms",
       "glutes",
       "lower back"
     ],
@@ -18492,6 +18546,7 @@
       "traps"
     ],
     "secondaryMuscles": [
+      "forearms",
       "lats",
       "middle back"
     ],
@@ -18597,7 +18652,8 @@
     "secondaryMuscles": [
       "lats",
       "biceps",
-      "traps"
+      "traps",
+      "forearms"
     ],
     "instructions": [
       "Lie face down on a high bench so the barbell hangs below you with your arms fully extended, and grip the bar slightly wider than your shoulders.",
@@ -20643,6 +20699,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -21240,6 +21297,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -21332,6 +21390,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "lower back",
       "quadriceps",
@@ -22422,6 +22481,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "shoulders"
     ],
     "instructions": [
@@ -23206,6 +23266,7 @@
     ],
     "secondaryMuscles": [
       "abdominals",
+      "forearms",
       "glutes",
       "lower back"
     ],
@@ -23234,6 +23295,7 @@
     ],
     "secondaryMuscles": [
       "abdominals",
+      "forearms",
       "glutes",
       "lower back"
     ],
@@ -23398,6 +23460,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -23812,6 +23875,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "lats"
     ],
     "instructions": [
@@ -23896,6 +23960,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back"
     ],
@@ -24242,6 +24307,7 @@
     ],
     "secondaryMuscles": [
       "abdominals",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back"
@@ -24508,6 +24574,7 @@
     ],
     "secondaryMuscles": [
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back",
@@ -24586,6 +24653,7 @@
     "secondaryMuscles": [
       "abdominals",
       "biceps",
+      "forearms",
       "lats",
       "lower back"
     ],
@@ -24718,6 +24786,7 @@
       "shoulders"
     ],
     "secondaryMuscles": [
+      "forearms",
       "traps"
     ],
     "instructions": [
@@ -24848,6 +24917,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "middle back",
       "shoulders"
     ],
@@ -25413,6 +25483,7 @@
     ],
     "secondaryMuscles": [
       "biceps",
+      "forearms",
       "middle back",
       "shoulders"
     ],
@@ -25670,6 +25741,7 @@
       "abductors",
       "adductors",
       "calves",
+      "forearms",
       "glutes",
       "hamstrings",
       "lower back"
