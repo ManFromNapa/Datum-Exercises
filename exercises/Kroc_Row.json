@@ -11,8 +11,10 @@
   "secondaryMuscles": [
     "middle back",
     "biceps",
-    "forearms",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Place one hand and the same-side knee on a bench with a flat back, and hold a heavy dumbbell in your other hand.",

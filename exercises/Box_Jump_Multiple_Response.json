@@ -8,11 +8,13 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
     "glutes",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "Assume a relaxed stance facing the box or platform approximately an arm's length away. Arms should be down at the sides and legs slightly bent.",

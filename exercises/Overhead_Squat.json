@@ -8,14 +8,16 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders",
+    "triceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "adductors",
     "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "shoulders",
-    "triceps"
+    "lower back"
   ],
   "instructions": [
     "Start out by having a barbell in front of you on the floor. Your feet should be wider than shoulder width apart from each other.",

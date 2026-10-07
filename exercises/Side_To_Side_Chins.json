@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "middle back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Grab the pull-up bar with the palms facing forward using a wide grip.",

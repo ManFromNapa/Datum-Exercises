@@ -12,7 +12,9 @@
     "glutes",
     "shoulders",
     "triceps",
-    "hamstrings",
+    "hamstrings"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "lower back"
   ],

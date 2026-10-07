@@ -9,8 +9,10 @@
     "glutes"
   ],
   "secondaryMuscles": [
-    "lower back",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "From hands and knees, bring one knee forward and place your shin across your body, then extend the other leg straight back.",

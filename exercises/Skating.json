@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors",
+    "calves"
   ],
   "instructions": [
     "Roller skating is a fun activity which can be effective in improving cardiorespiratory fitness and muscular endurance. It requires relatively good balance and coordination. It is necessary to learn the basics of skating including turning and stopping and to wear protective gear to avoid possible injury.",

@@ -8,10 +8,12 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "Stand to one side of the box with your left foot resting on the middle of it.",

@@ -7,7 +7,8 @@
   "primaryMuscles": [
     "abductors"
   ],
-  "secondaryMuscles": [
+  "secondaryMuscles": [],
+  "stabilizerMuscles": [
     "adductors"
   ],
   "instructions": [

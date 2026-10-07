@@ -9,8 +9,10 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "lats"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Suspend your straps at around chest height. Take a handle in each hand and lean back. Keep your body erect and your head and chest up. Your arms should be fully extended. This will be your starting position.",

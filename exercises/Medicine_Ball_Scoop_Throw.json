@@ -8,9 +8,11 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "hamstrings",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Assume a semisquat stance with a medicine ball in your hands. Your arms should hang so the ball is near your feet.",

@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "forearms",
     "glutes",
     "hamstrings",
     "lower back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "With a barbell on the floor close to the shins, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",

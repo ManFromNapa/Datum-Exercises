@@ -8,8 +8,10 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Begin by standing on one leg, with the bent knee raised. This will be your start position.",

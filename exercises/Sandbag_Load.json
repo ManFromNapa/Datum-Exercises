@@ -8,16 +8,18 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
-    "calves",
-    "forearms",
     "glutes",
     "hamstrings",
-    "lower back",
     "middle back",
     "shoulders",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves",
+    "forearms",
+    "lower back"
   ],
   "instructions": [
     "To load sandbags or other objects, begin with the implements placed a distance from the loading platform, typically 50 feet.",

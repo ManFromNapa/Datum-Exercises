@@ -8,13 +8,15 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "shoulders",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Begin standing with a dumbbell in each hand with your feet shoulder width apart.",

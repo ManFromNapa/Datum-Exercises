@@ -7,7 +7,8 @@
   "primaryMuscles": [
     "glutes"
   ],
-  "secondaryMuscles": [
+  "secondaryMuscles": [],
+  "stabilizerMuscles": [
     "abductors"
   ],
   "instructions": [

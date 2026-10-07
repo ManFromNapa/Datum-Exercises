@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "Start in a relaxed position with one leg slightly forward. This will be your starting position.",

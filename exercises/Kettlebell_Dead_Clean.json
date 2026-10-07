@@ -8,12 +8,14 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Place kettlebell between your feet. To get in the starting position, push your butt back and look straight ahead.",

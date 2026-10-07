@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors",
+    "calves"
   ],
   "instructions": [
     "To begin, place a flat bench 2-3 feet behind the smith machine. Then, set the bar on the height that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",

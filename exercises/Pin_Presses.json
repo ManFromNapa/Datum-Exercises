@@ -9,10 +9,12 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "forearms",
     "lats",
     "middle back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Pin presses remove the eccentric phase of the bench press, developing starting strength. They also allow you to train a desired range of motion.",

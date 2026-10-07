@@ -10,7 +10,9 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "shoulders",
+    "shoulders"
+  ],
+  "stabilizerMuscles": [
     "lower back"
   ],
   "instructions": [

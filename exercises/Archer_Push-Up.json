@@ -10,7 +10,9 @@
   ],
   "secondaryMuscles": [
     "triceps",
-    "shoulders",
+    "shoulders"
+  ],
+  "stabilizerMuscles": [
     "abdominals"
   ],
   "instructions": [

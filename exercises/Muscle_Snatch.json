@@ -8,12 +8,14 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Begin with a loaded barbell held at the mid thigh position with a wide grip. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",

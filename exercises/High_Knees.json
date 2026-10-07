@@ -9,8 +9,10 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes"
+  ],
+  "stabilizerMuscles": [
     "calves",
-    "glutes",
     "abdominals"
   ],
   "instructions": [

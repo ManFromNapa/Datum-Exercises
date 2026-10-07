@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "Set up a row of cones or other small barriers, placing them a few feet apart.",

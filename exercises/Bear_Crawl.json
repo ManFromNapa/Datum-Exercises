@@ -9,10 +9,12 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "quadriceps",
     "chest",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Start on your hands and toes with your knees bent and hovering just off the floor, back flat.",

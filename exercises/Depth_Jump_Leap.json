@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "For this drill you will need two boxes or benches, one 12 to 16 inches high and the other 22 to 26 inches high.",

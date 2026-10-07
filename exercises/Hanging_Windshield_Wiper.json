@@ -9,9 +9,11 @@
     "abdominals"
   ],
   "secondaryMuscles": [
-    "forearms",
     "lats",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Grip a pull-up bar and hang, then raise your straight legs up until your feet are near the bar.",

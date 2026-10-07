@@ -8,10 +8,12 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "hamstrings",
     "quadriceps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Lie on your back on the floor and press a kettlebell to the top position by extending the elbow. Bend the knee on the same side as the kettlebell.",

@@ -8,13 +8,15 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "abductors",
     "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "shoulders"
+    "lower back"
   ],
   "instructions": [
     "Pick up a kettlebell with two hands and hold it by the horns. Hold one leg off of the floor and squat down on the other.",

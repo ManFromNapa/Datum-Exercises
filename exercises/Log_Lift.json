@@ -8,15 +8,17 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "chest",
     "glutes",
     "hamstrings",
-    "lower back",
     "middle back",
     "quadriceps",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "lower back"
   ],
   "instructions": [
     "Begin standing with the log in front of you. Grasp the handles, and begin to clean the log. As you are bent over to start the clean, attempt to get the log as high as possible, pulling it into your chest. Extend through the hips and knees to bring it up to complete the clean.",

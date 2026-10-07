@@ -8,15 +8,17 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "abductors",
     "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "abductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Begin with a bar loaded on the floor inside of a power rack. Attach bands to the top of the rack, using either pegs or the frame itself. Attach the other end to the barbell.",

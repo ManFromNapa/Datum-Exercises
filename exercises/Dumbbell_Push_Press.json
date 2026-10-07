@@ -11,7 +11,9 @@
   "secondaryMuscles": [
     "triceps",
     "quadriceps",
-    "traps",
+    "traps"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "lower back"
   ],

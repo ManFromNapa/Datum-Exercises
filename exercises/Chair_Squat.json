@@ -8,10 +8,12 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "adductors",
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "adductors",
+    "calves"
   ],
   "instructions": [
     "To begin, first set the bar to a position that best matches your height. Once the bar is loaded, step under it and position it across the back of your shoulders.",

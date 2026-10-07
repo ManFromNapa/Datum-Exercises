@@ -8,9 +8,11 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abductors",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abductors"
   ],
   "instructions": [
     "Stand with your feet shoulder width apart. This will be your starting position.",

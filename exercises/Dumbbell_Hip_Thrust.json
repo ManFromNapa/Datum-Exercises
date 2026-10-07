@@ -10,7 +10,9 @@
   ],
   "secondaryMuscles": [
     "hamstrings",
-    "quadriceps",
+    "quadriceps"
+  ],
+  "stabilizerMuscles": [
     "lower back"
   ],
   "instructions": [

@@ -8,13 +8,15 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "shoulders"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "adductors",
     "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "shoulders"
+    "lower back"
   ],
   "instructions": [
     "Stand holding a light kettlebell by the horns close to your chest. This will be your starting position.",

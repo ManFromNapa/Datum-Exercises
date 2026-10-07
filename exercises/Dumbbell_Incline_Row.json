@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "lats",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Using a neutral grip, lean into an incline bench.",

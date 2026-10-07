@@ -8,9 +8,11 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Lie on the floor with two kettlebells next to your shoulders.",

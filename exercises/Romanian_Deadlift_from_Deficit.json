@@ -8,11 +8,13 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "forearms",
     "glutes",
     "lower back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms"
   ],
   "instructions": [
     "Begin standing while holding a bar at arm's length in front of you. You can stand on a raised platform to increase the range of motion.",

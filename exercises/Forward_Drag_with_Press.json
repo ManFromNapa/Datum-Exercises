@@ -8,12 +8,14 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "hamstrings",
     "quadriceps",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Attach a dual handled chain or rope attachment to the sled. You should be facing away from the sled, holding a handle in each hand.",

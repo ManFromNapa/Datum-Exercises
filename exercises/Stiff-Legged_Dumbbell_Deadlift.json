@@ -8,10 +8,12 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "forearms",
     "glutes",
     "lower back"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms"
   ],
   "instructions": [
     "Grasp a couple of dumbbells holding them by your side at arm's length.",

@@ -8,15 +8,17 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. Ensure that they under the back half of your foot, directly where you are driving into the floor.",

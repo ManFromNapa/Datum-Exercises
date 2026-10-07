@@ -11,7 +11,9 @@
   "secondaryMuscles": [
     "quadriceps",
     "glutes",
-    "hamstrings",
+    "hamstrings"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "lower back",
     "abductors",

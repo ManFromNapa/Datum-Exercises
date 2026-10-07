@@ -8,8 +8,10 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "You will need a box for this exerise.",

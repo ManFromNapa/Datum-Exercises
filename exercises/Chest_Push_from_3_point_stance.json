@@ -8,9 +8,11 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Begin in a three point stance, squatted down with your back flat and one hand on the ground. Place the medicine ball directly in front of you.",

@@ -8,9 +8,11 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "With your hands wide apart, support your body on your toes and hands in a plank position. Your elbows should be extended and your body straight. Do not allow your hips to sag. This will be your starting position.",

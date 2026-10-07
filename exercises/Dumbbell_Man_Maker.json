@@ -12,7 +12,9 @@
     "chest",
     "lats",
     "quadriceps",
-    "triceps",
+    "triceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals"
   ],
   "instructions": [

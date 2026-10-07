@@ -8,9 +8,11 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Position two equally loaded EZ bars on the ground next to each other. Ensure they are able to roll.",

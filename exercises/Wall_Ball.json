@@ -11,7 +11,9 @@
   "secondaryMuscles": [
     "glutes",
     "shoulders",
-    "triceps",
+    "triceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals"
   ],
   "instructions": [

@@ -8,9 +8,11 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Being in a standing position. Jump into a split leg position, with one leg forward and one leg back, flexing the knees and lowering your hips slightly as you do so.",

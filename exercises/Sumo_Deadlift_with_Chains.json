@@ -8,16 +8,18 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "abductors",
     "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "abductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift. Attempt to keep the ends of the chains away from the plates so you don't hit them when you lower the weight.",

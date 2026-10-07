@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "lats",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Place a cambered bar underneath an exercise bench.",

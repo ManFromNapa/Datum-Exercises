@@ -8,9 +8,11 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "lower back",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "lower back"
   ],
   "instructions": [
     "Start by placing a barbell that is about chest high on a squat rack. Once you have selected the weights, grab the barbell using a pronated (palms facing forward) grip. Make sure to grip the bar wider than shoulder width apart from each other.",

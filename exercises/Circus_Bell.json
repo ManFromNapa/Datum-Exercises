@@ -8,12 +8,14 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "forearms",
     "glutes",
     "hamstrings",
-    "lower back",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms",
+    "lower back"
   ],
   "instructions": [
     "The circus bell is an oversized dumbbell with a thick handle. Begin with the dumbbell between your feet, and grip the handle with both hands.",

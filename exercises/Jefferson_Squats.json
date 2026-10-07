@@ -8,13 +8,15 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "traps"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "adductors",
     "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "traps"
+    "lower back"
   ],
   "instructions": [
     "Place a barbell on the floor.",

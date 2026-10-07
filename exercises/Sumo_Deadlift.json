@@ -8,15 +8,17 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Begin with a bar loaded on the ground. Approach the bar so that the bar intersects the middle of the feet. The feet should be set very wide, near the collars. Bend at the hips to grip the bar. The arms should be directly below the shoulders, inside the legs, and you can use a pronated grip, a mixed grip, or hook grip. Relax the shoulders, which in effect lengthens your arms.",

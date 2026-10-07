@@ -8,14 +8,16 @@
     "lower back"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "hamstrings",
+    "quadriceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "abductors",
     "adductors",
     "calves",
-    "forearms",
-    "glutes",
-    "hamstrings",
-    "quadriceps"
+    "forearms"
   ],
   "instructions": [
     "Set the bar up in a power rack. Attach bands to the top of the rack, using either bands pegs or the frame itself. Attach the other end of the bands to the bar.",

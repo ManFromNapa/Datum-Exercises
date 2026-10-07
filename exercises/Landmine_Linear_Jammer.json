@@ -8,12 +8,14 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "calves",
     "chest",
     "hamstrings",
     "quadriceps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves"
   ],
   "instructions": [
     "Position a bar into landmine or, lacking one, securely anchor it in a corner. Load the bar to an appropriate weight and position the handle attachment on the bar.",

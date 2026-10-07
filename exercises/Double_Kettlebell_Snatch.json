@@ -8,10 +8,12 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "forearms",
     "glutes",
     "hamstrings",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Place two kettlebells behind your feet. Bend your knees and sit back to pick up the kettlebells.",

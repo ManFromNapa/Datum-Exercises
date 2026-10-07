@@ -8,9 +8,11 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "lower back",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "lower back"
   ],
   "instructions": [
     "Move the cables to the bottom of the towers and select an appropriate weight.",

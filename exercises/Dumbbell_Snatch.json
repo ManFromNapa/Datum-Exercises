@@ -9,11 +9,13 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "forearms",
     "glutes",
     "hamstrings",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Squat over a dumbbell on the floor between your feet and grip it with one hand, back flat.",

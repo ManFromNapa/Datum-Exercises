@@ -9,8 +9,10 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "lower back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "Adjust the straps so the handles are at an appropriate height, below waist level.",

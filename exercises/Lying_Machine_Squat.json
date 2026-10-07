@@ -8,10 +8,12 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "adductors",
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "adductors",
+    "calves"
   ],
   "instructions": [
     "Adjust the leg machine to a height that will allow you to get inside it with your knees bent and the thighs slightly below parallel.",

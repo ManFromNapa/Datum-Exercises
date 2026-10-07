@@ -8,9 +8,11 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Assume a push-up position, supporting your weight on your hands and toes while keeping your body straight. Your hands should be just outside of shoulder width. This will be your starting position.",

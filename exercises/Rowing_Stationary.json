@@ -9,11 +9,13 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "calves",
     "glutes",
     "hamstrings",
-    "lower back",
     "middle back"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "lower back"
   ],
   "instructions": [
     "To begin, seat yourself on the rower. Make sure that your heels are resting comfortably against the base of the foot pedals and that the straps are secured. Select the program that you wish to use, if applicable. Sit up straight and bend forward at the hips.",

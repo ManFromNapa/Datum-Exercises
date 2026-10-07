@@ -8,10 +8,12 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "forearms",
     "glutes",
     "lower back"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms"
   ],
   "instructions": [
     "Grasp a bar using an overhand grip (palms facing down). You may need some wrist wraps if using a significant amount of weight.",

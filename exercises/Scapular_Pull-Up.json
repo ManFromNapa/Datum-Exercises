@@ -8,9 +8,11 @@
     "traps"
   ],
   "secondaryMuscles": [
-    "forearms",
     "lats",
     "middle back"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Take a pronated grip on a pull-up bar.",

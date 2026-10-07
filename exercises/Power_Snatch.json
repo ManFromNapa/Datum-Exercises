@@ -8,14 +8,16 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "shoulders",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",

@@ -8,9 +8,11 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Standing upright, with feet at shoulder width and toes raised, use one hand to hold onto the beams of a squat rack and the opposite arm to hold a plate on top of your chest. This is your starting position.",

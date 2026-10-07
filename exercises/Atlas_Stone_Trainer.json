@@ -9,10 +9,12 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "glutes",
     "hamstrings",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.",

@@ -8,12 +8,14 @@
     "adductors"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "abductors",
-    "calves",
     "glutes",
     "hamstrings",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "abductors",
+    "calves"
   ],
   "instructions": [
     "Begin with your feet a few inches apart and your left arm up in a relaxed, athletic position.",

@@ -8,12 +8,14 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "With a barbell on the floor close to the shins, take a wide snatch grip. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.",

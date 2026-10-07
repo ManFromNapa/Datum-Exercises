@@ -10,9 +10,11 @@
   ],
   "secondaryMuscles": [
     "triceps",
-    "abdominals",
-    "lower back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "lower back"
   ],
   "instructions": [
     "Sit on the floor with your legs straight out in front of you, and set a barbell at shoulder height on a rack or pick it up from there.",

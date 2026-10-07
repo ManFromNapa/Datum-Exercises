@@ -9,11 +9,13 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",

@@ -10,7 +10,9 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "triceps",
+    "triceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals"
   ],
   "instructions": [

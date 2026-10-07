@@ -8,16 +8,18 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
-    "calves",
-    "forearms",
     "glutes",
     "hamstrings",
     "middle back",
     "quadriceps",
     "shoulders",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "To load kegs, place the desired number a distance from the loading platform, typically 30-50 feet.",

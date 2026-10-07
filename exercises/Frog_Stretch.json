@@ -9,7 +9,9 @@
     "adductors"
   ],
   "secondaryMuscles": [
-    "glutes",
+    "glutes"
+  ],
+  "stabilizerMuscles": [
     "lower back"
   ],
   "instructions": [

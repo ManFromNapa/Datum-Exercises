@@ -8,11 +8,13 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
     "glutes",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "You will need several boxes lined up about 8 feet apart.",

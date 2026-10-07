@@ -11,9 +11,11 @@
     "chest",
     "glutes",
     "hamstrings",
-    "lower back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "Stand tall with your feet shoulder width apart, holding a dumbbell in each hand at your sides with your palms facing in. This will be your starting position.",

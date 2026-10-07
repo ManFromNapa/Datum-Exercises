@@ -8,9 +8,11 @@
     "chest"
   ],
   "secondaryMuscles": [
-    "forearms",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Begin in a standing position.",

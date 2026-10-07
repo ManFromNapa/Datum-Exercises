@@ -9,10 +9,12 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "forearms",
     "lats",
     "middle back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Position a bench inside a power rack, with the bar set to the correct height. Begin by anchoring bands either to band pegs or to the top of the rack. Ensure that you will be position properly under the bands. Attach the other end to the barbell.",

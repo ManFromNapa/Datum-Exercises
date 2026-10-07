@@ -9,10 +9,12 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "adductors",
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "adductors",
+    "calves"
   ],
   "instructions": [
     "Sit in the leg press and place one foot flat in the middle of the platform, with the other leg off it.",

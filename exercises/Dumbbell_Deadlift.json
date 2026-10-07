@@ -11,8 +11,10 @@
   "secondaryMuscles": [
     "glutes",
     "lower back",
+    "traps"
+  ],
+  "stabilizerMuscles": [
     "forearms",
-    "traps",
     "abdominals",
     "adductors",
     "calves"

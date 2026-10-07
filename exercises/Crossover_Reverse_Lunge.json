@@ -8,11 +8,13 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "abductors",
     "glutes",
     "hamstrings",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "abductors"
   ],
   "instructions": [
     "Stand with your feet shoulder width apart. This will be your starting position.",

@@ -8,16 +8,18 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "hamstrings",
     "lats",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "adductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Stand in front of a loaded barbell.",

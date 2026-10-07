@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "abductors",
-    "adductors",
     "calves",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "adductors"
   ],
   "instructions": [
     "Stand to the side of a cone or hurdle. To get into the start position, stand on one leg with your knee slightly bent.",

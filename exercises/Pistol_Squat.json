@@ -10,7 +10,9 @@
   ],
   "secondaryMuscles": [
     "glutes",
-    "hamstrings",
+    "hamstrings"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "lower back",
     "abductors",

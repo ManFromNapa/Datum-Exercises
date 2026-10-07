@@ -12,8 +12,10 @@
     "chest",
     "shoulders",
     "triceps",
-    "abdominals",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Stand with your feet shoulder-width apart.",

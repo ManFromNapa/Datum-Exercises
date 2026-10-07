@@ -8,8 +8,10 @@
     "glutes"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Lie facedown on top of an exercise ball.",

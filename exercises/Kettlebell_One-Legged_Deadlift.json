@@ -8,11 +8,13 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "abductors",
-    "forearms",
     "glutes",
     "lower back"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "abductors",
+    "forearms"
   ],
   "instructions": [
     "Hold a kettlebell by the handle in one hand. Stand on one leg, on the same side that you hold the kettlebell.",

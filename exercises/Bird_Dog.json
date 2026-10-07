@@ -10,8 +10,10 @@
   ],
   "secondaryMuscles": [
     "glutes",
-    "lower back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "Start on your hands and knees with your hands under your shoulders and your knees under your hips, back flat.",

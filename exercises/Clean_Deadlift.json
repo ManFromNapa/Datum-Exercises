@@ -8,15 +8,17 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "adductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Begin standing with a barbell close to your shins. Your feet should be directly under your hips with your feet turned out slightly. Grip the bar with a double overhand grip or hook grip, about shoulder width apart. Squat down to the bar. Your spine should be in full extension, with a back angle that places your shoulders in front of the bar and your back as vertical as possible.",

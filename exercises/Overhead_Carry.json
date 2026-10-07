@@ -9,10 +9,12 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "triceps",
     "traps",
     "forearms"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Press a dumbbell overhead with one arm and lock out your elbow.",

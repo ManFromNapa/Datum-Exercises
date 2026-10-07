@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "hamstrings",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Begin with the feet in the pulling position, the bar racked across the back of the shoulders, and the hands placed in a wide snatch grip.",

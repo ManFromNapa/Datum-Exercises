@@ -8,9 +8,11 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "calves",
     "quadriceps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Hold a kettlebell by the handle in each hand.",

@@ -8,15 +8,17 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "chest",
-    "forearms",
     "glutes",
     "hamstrings",
-    "lower back",
     "shoulders",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms",
+    "lower back"
   ],
   "instructions": [
     "Begin by gripping the bottom of the tire on the tread, and position your feet back a bit. Your chest should be driving into the tire.",

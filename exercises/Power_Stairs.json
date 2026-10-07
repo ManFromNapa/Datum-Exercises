@@ -8,13 +8,15 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "adductors",
-    "calves",
     "glutes",
-    "lower back",
     "quadriceps",
     "shoulders",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "adductors",
+    "calves",
+    "lower back"
   ],
   "instructions": [
     "In the power stairs, implements are moved up a staircase. For training purposes, these can be performed with a tire or box.",

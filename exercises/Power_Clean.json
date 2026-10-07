@@ -8,8 +8,6 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
-    "forearms",
     "glutes",
     "lower back",
     "middle back",
@@ -17,6 +15,10 @@
     "shoulders",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Stand with your feet slightly wider than shoulder width apart and toes pointing out slightly.",

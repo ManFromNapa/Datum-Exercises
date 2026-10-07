@@ -8,12 +8,14 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "calves",
     "glutes",
     "hamstrings",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves"
   ],
   "instructions": [
     "Standing with the weight racked on the front of the shoulders, begin with the dip. With your feet directly under your hips, flex the knees without moving the hips backward. Go down only slightly, and reverse direction as powerfully as possible.",

@@ -8,13 +8,15 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "quadriceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "abductors",
     "adductors",
     "calves",
-    "glutes",
-    "lower back",
-    "quadriceps"
+    "lower back"
   ],
   "instructions": [
     "Stand with your torso upright holding a kettlebell in your right hand. This will be your starting position.",

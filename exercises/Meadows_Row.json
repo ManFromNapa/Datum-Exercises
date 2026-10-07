@@ -10,7 +10,9 @@
   ],
   "secondaryMuscles": [
     "middle back",
-    "biceps",
+    "biceps"
+  ],
+  "stabilizerMuscles": [
     "forearms",
     "lower back",
     "abdominals"

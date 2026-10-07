@@ -11,7 +11,9 @@
   "secondaryMuscles": [
     "hamstrings",
     "lower back",
-    "shoulders",
+    "shoulders"
+  ],
+  "stabilizerMuscles": [
     "abdominals"
   ],
   "instructions": [

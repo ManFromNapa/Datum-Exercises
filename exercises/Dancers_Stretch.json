@@ -8,8 +8,10 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abductors",
     "glutes"
+  ],
+  "stabilizerMuscles": [
+    "abductors"
   ],
   "instructions": [
     "Sit up on the floor.",

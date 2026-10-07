@@ -8,13 +8,15 @@
     "lats"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
-    "forearms",
     "middle back",
     "shoulders",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms"
   ],
   "instructions": [
     "Grip the rings using a false grip, with the base of your palms on top of the rings. Initiate a pull up by pulling the elbows down to your side, flexing the elbows.",

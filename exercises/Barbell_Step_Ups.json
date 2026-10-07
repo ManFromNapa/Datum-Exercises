@@ -8,13 +8,14 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
+    "glutes",
+    "hamstrings"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "abductors",
     "calves",
-    "glutes",
-    "hamstrings",
-    "lower back",
-    "quadriceps"
+    "lower back"
   ],
   "instructions": [
     "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",

@@ -8,10 +8,12 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "calves",
     "glutes",
-    "hamstrings",
+    "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
     "lower back"
   ],
   "instructions": [

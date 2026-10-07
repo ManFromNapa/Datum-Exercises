@@ -8,9 +8,11 @@
     "lats"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "chest",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Begin standing while facing a wall or a partner.",

@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "lats",
-    "lower back",
-    "neck",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "lower back",
+    "neck"
   ],
   "instructions": [
     "Sit in a chair so your back is straight and your feet planted on the floor.",

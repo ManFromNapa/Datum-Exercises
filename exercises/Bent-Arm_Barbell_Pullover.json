@@ -9,10 +9,10 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "lats",
     "shoulders",
     "triceps"
   ],
+  "stabilizerMuscles": [],
   "instructions": [
     "Lie on a flat bench with a barbell using a shoulder grip width.",
     "Hold the bar straight over your chest with a bend in your arms. This will be your starting position.",

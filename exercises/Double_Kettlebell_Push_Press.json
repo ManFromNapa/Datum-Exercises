@@ -8,11 +8,13 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "calves",
-    "lower back",
     "quadriceps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves",
+    "lower back"
   ],
   "instructions": [
     "Clean two kettlebells to your shoulders.",

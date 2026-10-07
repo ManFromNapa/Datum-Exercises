@@ -9,13 +9,15 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "glutes",
     "hamstrings",
     "lower back",
     "shoulders",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Place your feet at a shoulder width stance with the barbell resting right above the connection between the toes and the rest of the foot.",

@@ -8,8 +8,10 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "lower back",
     "middle back"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "While seated, bend forward to hug your thighs from underneath with both arms.",

@@ -8,8 +8,10 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Stand on the ground with one foot resting on the box, heel close to the edge.",

@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "chest",
-    "forearms",
     "lats",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Standing straight up, lace your fingers together and open your palms to the ceiling. Keep your shoulders down as you extend your arms up.",

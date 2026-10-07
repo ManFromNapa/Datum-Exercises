@@ -8,12 +8,14 @@
     "glutes"
   ],
   "secondaryMuscles": [
+    "hamstrings",
+    "quadriceps"
+  ],
+  "stabilizerMuscles": [
     "abdominals",
     "abductors",
     "calves",
-    "hamstrings",
-    "lower back",
-    "quadriceps"
+    "lower back"
   ],
   "instructions": [
     "Stand facing a box or bench of an appropriate height with your feet together. This will be your starting position.",

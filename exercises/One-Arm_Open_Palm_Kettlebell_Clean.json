@@ -8,11 +8,13 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "forearms",
     "glutes",
     "lower back",
     "quadriceps",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Place one kettlebell between your feet.",

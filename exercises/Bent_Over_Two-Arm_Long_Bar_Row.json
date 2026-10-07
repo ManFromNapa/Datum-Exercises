@@ -8,10 +8,12 @@
     "middle back"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
+    "lats"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
     "forearms",
-    "lats",
     "lower back"
   ],
   "instructions": [

@@ -8,9 +8,11 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "lower back",
     "middle back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "Select a weight and hold the handle of the low pulley with your right hand.",

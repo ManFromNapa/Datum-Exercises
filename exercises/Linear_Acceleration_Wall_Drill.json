@@ -8,9 +8,11 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Lean at around 45 degrees against a wall. Your feet should be together, glutes contracted.",

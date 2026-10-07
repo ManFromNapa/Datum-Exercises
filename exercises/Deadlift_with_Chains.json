@@ -8,15 +8,17 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "hamstrings",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "adductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.",

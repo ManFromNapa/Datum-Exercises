@@ -9,8 +9,10 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "lats"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "For this exercise, start out by placing a towel around a chin up bar.",

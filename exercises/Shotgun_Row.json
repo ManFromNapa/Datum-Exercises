@@ -8,10 +8,12 @@
     "lats"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
-    "lower back",
     "middle back"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "lower back"
   ],
   "instructions": [
     "Attach a single handle to a low cable.",

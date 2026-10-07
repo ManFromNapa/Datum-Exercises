@@ -7,7 +7,8 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
+  "secondaryMuscles": [],
+  "stabilizerMuscles": [
     "abdominals",
     "forearms"
   ],

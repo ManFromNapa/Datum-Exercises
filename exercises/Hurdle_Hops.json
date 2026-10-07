@@ -8,11 +8,12 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abductors",
-    "adductors",
     "calves",
-    "glutes",
-    "hamstrings"
+    "glutes"
+  ],
+  "stabilizerMuscles": [
+    "abductors",
+    "adductors"
   ],
   "instructions": [
     "Set up a row of hurdles or other small barriers, placing them a few feet apart.",

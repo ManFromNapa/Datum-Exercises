@@ -8,12 +8,14 @@
     "forearms"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "glutes",
     "hamstrings",
-    "lower back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "lower back"
   ],
   "instructions": [
     "There are various implements that can be used for the farmers walk. These can also be performed with heavy dumbbells or short bars if these implements aren't available. Begin by standing between the implements.",

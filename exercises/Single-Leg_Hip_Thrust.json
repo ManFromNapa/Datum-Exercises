@@ -9,9 +9,11 @@
     "glutes"
   ],
   "secondaryMuscles": [
-    "abductors",
     "hamstrings",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "abductors"
   ],
   "instructions": [
     "Sit with your upper back against a bench, one foot flat on the floor and the other leg extended.",

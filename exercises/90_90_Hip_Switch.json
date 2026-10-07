@@ -8,7 +8,8 @@
   "primaryMuscles": [
     "glutes"
   ],
-  "secondaryMuscles": [
+  "secondaryMuscles": [],
+  "stabilizerMuscles": [
     "adductors",
     "lower back"
   ],

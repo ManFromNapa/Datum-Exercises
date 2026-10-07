@@ -8,8 +8,10 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Seat yourself on the floor.",

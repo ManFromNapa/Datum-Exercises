@@ -8,13 +8,15 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "adductors",
-    "forearms",
     "glutes",
     "hamstrings",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "adductors",
+    "forearms"
   ],
   "instructions": [
     "Set up in a power rack with the bar on the pins. The pins should be set to the desired point; just below the knees, just above, or in the mid thigh position. Attach bands to the base of the rack, or secure them with dumbbells. Attach the other end to the bar. You may need to choke the bands to provide tension.",

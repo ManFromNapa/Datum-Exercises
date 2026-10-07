@@ -9,9 +9,11 @@
   ],
   "secondaryMuscles": [
     "biceps",
-    "forearms",
     "lats",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Choose a flat bench and place a dumbbell on each side of it.",

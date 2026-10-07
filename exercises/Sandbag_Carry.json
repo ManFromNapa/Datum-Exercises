@@ -11,7 +11,9 @@
   "secondaryMuscles": [
     "biceps",
     "forearms",
-    "glutes",
+    "glutes"
+  ],
+  "stabilizerMuscles": [
     "lower back"
   ],
   "instructions": [

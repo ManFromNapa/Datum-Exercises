@@ -8,9 +8,11 @@
     "hamstrings"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "glutes",
     "lower back"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Begin with a bar on a rack at about the same height as your stomach. Suspend the bar using chains or suspension straps.",

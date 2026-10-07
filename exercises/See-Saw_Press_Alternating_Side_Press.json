@@ -8,8 +8,10 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Grab a dumbbell with each hand and stand up erect.",

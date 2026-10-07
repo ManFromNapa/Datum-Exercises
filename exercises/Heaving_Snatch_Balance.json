@@ -8,12 +8,14 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "forearms",
     "glutes",
     "hamstrings",
     "shoulders",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms"
   ],
   "instructions": [
     "This drill helps you learn the snatch. Begin by holding a light weight across the back of the shoulders. Your feet should be slightly wider than hip width apart with the feet turned out, the same position that you would perform a squat with.",

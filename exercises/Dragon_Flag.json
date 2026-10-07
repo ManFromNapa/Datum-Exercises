@@ -9,9 +9,11 @@
     "abdominals"
   ],
   "secondaryMuscles": [
-    "lower back",
     "glutes",
     "lats"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "Lie on a bench and grip the bench behind your head. Raise your legs and hips so your body is a straight line resting on your upper back and shoulders.",

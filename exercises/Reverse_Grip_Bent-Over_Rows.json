@@ -8,12 +8,14 @@
     "middle back"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
-    "forearms",
     "lats",
-    "lower back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms",
+    "lower back"
   ],
   "instructions": [
     "Stand erect while holding a barbell with a supinated grip (palms facing up).",

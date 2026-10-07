@@ -8,11 +8,13 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "chest",
     "glutes",
     "hamstrings",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Load your pushing sled with the desired weight.",

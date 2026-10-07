@@ -9,8 +9,10 @@
     "abdominals"
   ],
   "secondaryMuscles": [
-    "forearms",
     "quadriceps"
+  ],
+  "stabilizerMuscles": [
+    "forearms"
   ],
   "instructions": [
     "Grip a pull-up bar and hang with your arms extended and your legs straight down.",

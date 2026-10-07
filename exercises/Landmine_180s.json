@@ -9,8 +9,10 @@
   ],
   "secondaryMuscles": [
     "glutes",
-    "lower back",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "lower back"
   ],
   "instructions": [
     "Position a bar into a landmine or securely anchor it in a corner. Load the bar to an appropriate weight.",

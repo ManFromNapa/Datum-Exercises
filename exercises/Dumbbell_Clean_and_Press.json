@@ -9,14 +9,16 @@
     "shoulders"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "forearms",
     "glutes",
     "hamstrings",
     "lower back",
     "quadriceps",
     "traps",
     "triceps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms"
   ],
   "instructions": [
     "Stand with a dumbbell in each hand at your sides, then hinge at the hips and lower them to just below your knees.",

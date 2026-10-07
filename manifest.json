@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "content_version": 9,
+  "content_version": 10,
   "updated": "2026-10-07",
   "exercises_file": "exercises.json",
-  "exercises_sha256": "a801b6d54a4d53c8dba79c0eaf7d8053ab947882aff6ef66f53f4afe394a8f68",
+  "exercises_sha256": "1d8e048fe9a5f0fdd35a0d68af9aab7dbf32101e79371808f354b40847ba1dae",
   "exercise_count": 976,
   "images": {
     "90_90_Hip_Switch": "473b6bc6df9dfe54",

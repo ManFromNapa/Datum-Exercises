@@ -8,9 +8,11 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "Stand on the ground with one foot resting on a bench or box with your heel close to the edge.",

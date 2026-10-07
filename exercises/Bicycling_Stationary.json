@@ -8,9 +8,11 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "calves",
     "glutes",
     "hamstrings"
+  ],
+  "stabilizerMuscles": [
+    "calves"
   ],
   "instructions": [
     "To begin, seat yourself on the bike and adjust the seat to your height.",

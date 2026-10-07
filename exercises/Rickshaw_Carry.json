@@ -8,13 +8,15 @@
     "forearms"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "calves",
     "glutes",
     "hamstrings",
-    "lower back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "calves",
+    "lower back"
   ],
   "instructions": [
     "Position the frame at the starting point, and load with the appropriate weight. Standing in the center of the frame, begin by gripping the handles and driving through your heels to lift the frame. Ensure your chest and head are up and your back is straight.",

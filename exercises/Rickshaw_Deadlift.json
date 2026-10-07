@@ -8,14 +8,16 @@
     "quadriceps"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "adductors",
-    "calves",
-    "forearms",
     "glutes",
     "hamstrings",
     "lower back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "adductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Load the frame with the desired weight. Center yourself between the handles. You feet should be about hip width apart. Bend at the hips to grip the handles, allowing your shoulder blades to protract.",

@@ -8,9 +8,11 @@
     "triceps"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "chest",
     "shoulders"
+  ],
+  "stabilizerMuscles": [
+    "abdominals"
   ],
   "instructions": [
     "Lie on the floor and place your hands on an upright dumbbell. Supporting your weight on your toes and hands, keep your torso rigid and your elbows in with your arms straight. This will be your starting position.",

@@ -8,16 +8,18 @@
     "lower back"
   ],
   "secondaryMuscles": [
-    "abdominals",
-    "adductors",
     "biceps",
-    "calves",
-    "forearms",
     "glutes",
     "hamstrings",
     "middle back",
     "quadriceps",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "adductors",
+    "calves",
+    "forearms"
   ],
   "instructions": [
     "Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold.",

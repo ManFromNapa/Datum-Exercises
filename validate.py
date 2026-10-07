@@ -75,10 +75,15 @@ def check_exercises(sources):
         names[key] = ex_id
         if not e.get("retired", False):
             live_names[key] = ex_id
-        for field in ("primaryMuscles", "secondaryMuscles"):
+        for field in ("primaryMuscles", "secondaryMuscles", "stabilizerMuscles"):
             for m in e.get(field, []):
                 if m not in MUSCLES:
                     err(f"{label}: {field} has unknown muscle {m!r}")
+        # A muscle is primary, or helps (secondary), or steadies (stabilizer): never two of them.
+        lists = {f: set(e.get(f, [])) for f in ("primaryMuscles", "secondaryMuscles", "stabilizerMuscles")}
+        for a, b in (("primaryMuscles", "secondaryMuscles"), ("primaryMuscles", "stabilizerMuscles"), ("secondaryMuscles", "stabilizerMuscles")):
+            for m in sorted(lists[a] & lists[b]):
+                err(f"{label}: {m!r} is in both {a} and {b}")
         if e.get("equipment") not in EQUIPMENT:
             err(f"{label}: unknown equipment {e.get('equipment')!r}")
         if e.get("category") not in CATEGORIES:

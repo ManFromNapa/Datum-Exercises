@@ -8,12 +8,14 @@
     "middle back"
   ],
   "secondaryMuscles": [
-    "abdominals",
     "biceps",
-    "forearms",
     "lats",
-    "lower back",
     "traps"
+  ],
+  "stabilizerMuscles": [
+    "abdominals",
+    "forearms",
+    "lower back"
   ],
   "instructions": [
     "Put weight on one of the ends of an Olympic barbell. Make sure that you either place the other end of the barbell in the corner of two walls; or put a heavy object on the ground so the barbell cannot slide backward.",
