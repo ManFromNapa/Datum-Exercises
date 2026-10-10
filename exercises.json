@@ -953,6 +953,37 @@
     ]
   },
   {
+    "name": "Back Extension Machine",
+    "force": "pull",
+    "level": "beginner",
+    "mechanic": "isolation",
+    "equipment": "machine",
+    "primaryMuscles": [
+      "lower back"
+    ],
+    "secondaryMuscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Adjust the seat and the foot platform so the pad sits across your upper back and your hips line up with the machine's pivot. Sit with your feet on the platform and your back against the pad.",
+      "Cross your arms over your chest or hold the handles, and lean slightly forward to start with a long, neutral spine.",
+      "Press back against the pad by extending at the hips and lower back until your torso is in line with your hips. Do not lean back past a straight line.",
+      "Pause briefly, then return slowly to the start under control. Use a weight you can move smoothly without jerking."
+    ],
+    "category": "strength",
+    "images": [],
+    "id": "Back_Extension_Machine",
+    "isTimeBased": false,
+    "isPerSide": false,
+    "aliases": [
+      "Seated Back Extension",
+      "Lumbar Extension Machine"
+    ],
+    "retired": false,
+    "stabilizerMuscles": []
+  },
+  {
     "name": "Back Flyes - With Bands",
     "force": "pull",
     "level": "beginner",

@@ -19,6 +19,10 @@
     "tool": "gemini",
     "date": "2026-10-03"
   },
+  "Back_Extension_Machine": {
+    "tool": "gemini",
+    "date": "2026-10-10"
+  },
   "Band_Bicep_Curl": {
     "tool": "gemini",
     "date": "2026-10-03"
